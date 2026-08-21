@@ -1,9 +1,17 @@
 # 10-12 maandag
 
-**Overnachten:** nog toevoegen - nog toevoegen
+**Overnachten:** Kaş - hotel nog te boeken
 
-nog toevoegen.
+Dag 15 van 16. Doorreis naar Kaş via de kustweg (ca. 2,5 uur).
 
 ## Bezienswaardigheden
 
-- nog toevoegen
+- **Kustweg Ölüdeniz–Kaş**: een van de mooiste rijtrajecten van de reis.
+- **Snorkelen**: het heldere water bij Kaş.
+- **Lycische rotsgraven**: opvallend in de rotswand bij het stadje.
+- **Terrasjes**: rustig genieten in het centrum van Kaş.
+
+## Praktisch
+
+- Hotelopties: Melisa Boutique Hotel & Spa (4,8★) of Mandalina Luxury Suites.
+- Bekijk lokaal (€15–20 p.p.) of er een boottocht naar Kekova te boeken is voor morgenochtend.

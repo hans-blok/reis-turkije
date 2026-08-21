@@ -1,9 +1,14 @@
 # 10-06 dinsdag
 
-**Overnachten:** nog toevoegen - nog toevoegen
+**Overnachten:** Pamukkale - hotel nog te boeken (aanbevolen: The Cotton House)
 
-Uitchecken bij Sırçalı Hotel in Konya ([overzicht-verblijven.md](../overzicht-verblijven.md)).
+Dag 9 van 16, de zwaarste rijdag van de reis: Konya → Pamukkale, ca. 4,5 tot 5 uur rijden.
 
 ## Bezienswaardigheden
 
-- nog toevoegen
+- **Onderweg**: een lunchstop plannen ergens halverwege de rit.
+
+## Praktisch
+
+- Vroeg vertrekken uit Konya vanwege de lange rijtijd.
+- Hotelkeuze: The Cotton House wordt aanbevolen (5,0★ over 369 reviews, familiebedrijf, uitstekend eten) — nog te boeken.

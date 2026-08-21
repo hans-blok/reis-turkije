@@ -41,8 +41,9 @@ theme:
     - search.suggest
     - search.highlight
   palette:
-    primary: "red"
-    accent: "red"
+    scheme: slate
+    primary: black
+    accent: deep orange
   font:
     text: "Segoe UI"
     code: "Consolas"
@@ -53,7 +54,8 @@ theme:
 # 4. Custom Styling - Entoli Stylesheet
 # Owner: Presentation Architect
 # ------------------------------------------------------------
-extra_css: []
+extra_css:
+  - assets/custom.css
 
 extra_javascript: []
 
@@ -113,6 +115,7 @@ nav:
   - Home: index.md
   - Vluchten: vluchten.md
   - Overzicht verblijven: overzicht-verblijven.md
+  - Restaurants: restaurants.md
   - Planning:
     - Maandag 28 september: dagen/09-28-maandag.md
     - Dinsdag 29 september: dagen/09-29-dinsdag.md

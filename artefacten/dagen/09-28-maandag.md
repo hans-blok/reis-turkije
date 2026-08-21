@@ -2,8 +2,14 @@
 
 **Overnachten:** Istanboel - Alilass Hotel
 
-Heenvlucht van Amsterdam naar Istanboel (11:15–15:45, [vluchten.md](../vluchten.md)), gevolgd door inchecken bij Alilass Hotel in Sultanahmet ([overzicht-verblijven.md](../overzicht-verblijven.md)).
+Dag 1 van 16. Heenvlucht van Amsterdam naar Istanboel, aankomst 15:45 ([vluchten.md](../vluchten.md)), gevolgd door de transfer naar het hotel in Sultanahmet ([overzicht-verblijven.md](../overzicht-verblijven.md)).
 
 ## Bezienswaardigheden
 
-- nog toevoegen
+- **Transfer naar Sultanahmet**: na aankomst op Istanbul Airport eerst naar het hotel voor het inchecken.
+- **Avondwandeling**: rustig beginnen met een wandeling door Sultanahmet om te acclimatiseren en de eerste sfeer van de stad te proeven.
+
+## Praktisch
+
+- Reserveer geen zware programmapunten voor vandaag; de vlucht en transfer nemen al een groot deel van de middag in beslag.
+- Bewaar de grote bezienswaardigheden (Hagia Sophia, Blauwe Moskee, Topkapi) voor dag 2.

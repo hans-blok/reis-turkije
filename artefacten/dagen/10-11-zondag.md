@@ -1,9 +1,11 @@
 # 10-11 zondag
 
-**Overnachten:** nog toevoegen - nog toevoegen
+**Overnachten:** Ölüdeniz - hotel nog te boeken
 
-nog toevoegen.
+Dag 14 van 16: actieve dag rond Ölüdeniz en Fethiye.
 
 ## Bezienswaardigheden
 
-- nog toevoegen
+- **Paragliden vanaf Babadağ**: bekende paragliding-spot met uitzicht over de Blue Lagoon.
+- **Bootdagtocht Blue Lagoon**: alternatief voor wie niet wil paragliden.
+- **Fethiye nachtmarkt**: in de avond, voor eten en sfeer.

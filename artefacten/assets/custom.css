@@ -1,0 +1,245 @@
+/* ============================================================
+   Reis Turkije 2026 — custom theme
+   Donker, redactioneel, met een sierlijke serif voor koppen
+   en een pil-vormige navigatie/knoppen, geïnspireerd op een
+   moderne "studio"-stijl (donker antraciet, warm crème, klei-accent).
+   ============================================================ */
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap");
+
+:root,
+[data-md-color-scheme="slate"] {
+  --rt-bg: #3c3731;
+  --rt-bg-panel: #46403a;
+  --rt-bg-panel-2: #4d4740;
+  --rt-border: #5c554c;
+  --rt-cream: #f4ede0;
+  --rt-muted: #ad9f8b;
+  --rt-muted-2: #7d7263;
+  --rt-clay: #c08a5a;
+  --rt-clay-strong: #d59d6c;
+
+  --md-default-bg-color: var(--rt-bg);
+  --md-default-fg-color: var(--rt-cream);
+  --md-default-fg-color--light: var(--rt-muted);
+  --md-default-fg-color--lighter: var(--rt-muted-2);
+  --md-default-fg-color--lightest: var(--rt-border);
+
+  --md-primary-fg-color: var(--rt-bg);
+  --md-primary-fg-color--light: var(--rt-bg);
+  --md-primary-fg-color--dark: var(--rt-bg);
+  --md-primary-bg-color: var(--rt-cream);
+  --md-primary-bg-color--light: var(--rt-cream);
+
+  --md-accent-fg-color: var(--rt-clay-strong);
+  --md-accent-fg-color--transparent: rgba(192, 138, 90, 0.15);
+  --md-accent-bg-color: var(--rt-bg);
+
+  --md-typeset-a-color: var(--rt-clay-strong);
+
+  --md-code-bg-color: var(--rt-bg-panel);
+  --md-code-fg-color: var(--rt-cream);
+
+  --md-footer-bg-color: var(--rt-bg);
+  --md-footer-bg-color--dark: var(--rt-bg);
+  --md-footer-fg-color: var(--rt-cream);
+  --md-footer-fg-color--light: var(--rt-muted);
+}
+
+body,
+.md-typeset {
+  font-family: "Inter", "Segoe UI", sans-serif;
+}
+
+/* ---------- Headings: elegant serif ---------- */
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-ellipsis {
+  font-family: "Poppins", "Segoe UI", sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--rt-cream);
+}
+
+.md-typeset h1 {
+  font-weight: 700;
+  font-size: 2.6rem;
+  line-height: 1.08;
+  margin-bottom: 1.2rem;
+}
+
+.md-typeset h2 {
+  font-size: 1.7rem;
+  border-bottom: none;
+  margin-top: 2.4rem;
+  padding-bottom: 0.3rem;
+}
+
+.md-typeset h2::after {
+  content: "";
+  display: block;
+  width: 2.5rem;
+  height: 2px;
+  margin-top: 0.6rem;
+  background: var(--rt-clay);
+}
+
+/* ---------- Header ---------- */
+
+.md-header {
+  background: var(--rt-bg);
+  box-shadow: none;
+  border-bottom: 1px solid var(--rt-border);
+}
+
+.md-header__title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+/* ---------- Pill-shaped tab navigation ---------- */
+
+.md-tabs {
+  background: transparent;
+  border-bottom: 1px solid var(--rt-border);
+}
+
+.md-tabs__list {
+  display: flex;
+  justify-content: center;
+  gap: 0.4rem;
+  padding: 0.6rem 0;
+}
+
+.md-tabs__item {
+  height: auto;
+}
+
+.md-tabs__link {
+  margin: 0;
+  padding: 0.5rem 1.1rem;
+  border-radius: 999px;
+  background: var(--rt-bg-panel);
+  border: 1px solid var(--rt-border);
+  color: var(--rt-muted);
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  opacity: 1;
+  transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+}
+
+.md-tabs__link:hover,
+.md-tabs__item--active .md-tabs__link {
+  background: var(--rt-cream);
+  color: var(--rt-bg);
+  border-color: var(--rt-cream);
+}
+
+/* ---------- Sidebar navigation ---------- */
+
+.md-nav {
+  font-family: "Inter", sans-serif;
+}
+
+.md-nav__title {
+  color: var(--rt-muted);
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.md-nav__link--active,
+.md-nav__link:focus,
+.md-nav__link:hover {
+  color: var(--rt-clay-strong);
+}
+
+.md-nav__item .md-nav__link--active {
+  font-weight: 600;
+}
+
+/* ---------- Buttons ---------- */
+
+.md-typeset .md-button {
+  border-radius: 999px;
+  background: var(--rt-cream);
+  color: var(--rt-bg);
+  border: 1px solid var(--rt-cream);
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  font-size: 0.78rem;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  padding: 0.7rem 1.5rem;
+}
+
+.md-typeset .md-button:hover {
+  background: transparent;
+  color: var(--rt-cream);
+}
+
+.md-typeset .md-button--primary {
+  background: var(--rt-clay);
+  border-color: var(--rt-clay);
+  color: var(--rt-bg);
+}
+
+.md-typeset .md-button--primary:hover {
+  background: transparent;
+  color: var(--rt-clay-strong);
+  border-color: var(--rt-clay-strong);
+}
+
+/* ---------- Tables ---------- */
+
+.md-typeset table:not([class]) {
+  background: var(--rt-bg-panel);
+  border: 1px solid var(--rt-border);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.md-typeset table:not([class]) th {
+  background: var(--rt-bg-panel-2);
+  color: var(--rt-cream);
+  font-family: "Inter", sans-serif;
+  font-size: 0.72rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--rt-border);
+}
+
+.md-typeset table:not([class]) td {
+  border-top: 1px solid var(--rt-border);
+}
+
+.md-typeset table:not([class]) tr:hover {
+  background: rgba(192, 138, 90, 0.06);
+}
+
+/* ---------- Links & misc ---------- */
+
+.md-typeset a {
+  text-decoration-color: var(--rt-clay);
+}
+
+.md-typeset hr {
+  border-color: var(--rt-border);
+}
+
+.md-search__input {
+  background: var(--rt-bg-panel);
+  color: var(--rt-cream);
+}
+
+.md-footer {
+  border-top: 1px solid var(--rt-border);
+}
+
+.md-footer-meta {
+  background: var(--rt-bg);
+}
