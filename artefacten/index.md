@@ -15,7 +15,7 @@
 | **[Vrijdag 2 oktober](dagen/10-02-vrijdag.md)** | Göreme - Mosaic Cave Hotel | ✈️ |
 | **[Zaterdag 3 oktober](dagen/10-03-zaterdag.md)** | Göreme - Mosaic Cave Hotel | 🚶 |
 | **[Zondag 4 oktober](dagen/10-04-zondag.md)** | Göreme - Mosaic Cave Hotel | 🚶 |
-| **[Maandag 5 oktober](dagen/10-05-maandag.md)** | nog toevoegen | 🚶 |
+| **[Maandag 5 oktober](dagen/10-05-maandag.md)** | Konya - Sırçalı Hotel | 🚗 |
 | **[Dinsdag 6 oktober](dagen/10-06-dinsdag.md)** | nog toevoegen | 🚶 |
 | **[Woensdag 7 oktober](dagen/10-07-woensdag.md)** | nog toevoegen | 🚶 |
 | **[Donderdag 8 oktober](dagen/10-08-donderdag.md)** | nog toevoegen | 🚶 |

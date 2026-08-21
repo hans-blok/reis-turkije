@@ -4,6 +4,7 @@
 |-------|-----------|------------|------|
 | Alilass Hotel | maandag 28 september 2026 | vrijdag 2 oktober 2026 | [booking.com](https://www.booking.com/hotel/tr/alilass.html) |
 | Mosaic Cave Hotel | vrijdag 2 oktober 2026 | maandag 5 oktober 2026 | [booking.com](https://www.booking.com/hotel/tr/mosaic-cave.html) |
+| Sırçalı Hotel | maandag 5 oktober 2026 | dinsdag 6 oktober 2026 | [sircalihotel.com](https://www.sircalihotel.com/en) |
 
 ## [Alilass Hotel](https://www.booking.com/hotel/tr/alilass.html)
 
@@ -31,6 +32,36 @@ Turkije
 - Inchecken: vanaf 14:00
 - Uitchecken: tot 12:00
 - Verblijf: 4 nachten
+
+### Opmerking
+
+Gepubliceerd vanuit de Booking.com-gegevens in de meegeleverde screenshot.
+
+## [Sırçalı Hotel](https://www.sircalihotel.com/en)
+
+**Maandag 5 oktober 2026 – dinsdag 6 oktober 2026**
+
+### Reisdetails
+
+| Onderdeel | Informatie |
+|----------|------------|
+| Boekingsnummer | 1482192169441696 |
+| Check-in | na 14:00 |
+| Check-out | vóór 12:00 |
+| Locatie | Sahibiata, İbni Bibi Sk. No: 3, Meram, 42040 Konya, Turkije |
+| Voorzieningen | 24-uursreceptie, gratis parkeren, gratis wifi op de kamer |
+
+### Adres
+
+Sahibiata, İbni Bibi Sk. No: 3  
+Meram, 42040 Konya  
+Turkije
+
+### Belangrijke informatie
+
+- Inchecken: na 14:00
+- Uitchecken: vóór 12:00
+- Verblijf: 1 nacht
 
 ### Opmerking
 
