@@ -112,10 +112,10 @@ markdown_extensions:
 # Primary responsibility: Publication Steward
 # ------------------------------------------------------------
 nav:
-  - Home: index.md
   - Vluchten: vluchten.md
   - Overzicht verblijven: overzicht-verblijven.md
   - Restaurants: restaurants.md
+  - Voorstel hotels: voorstel-hotels.md
   - Kaart: kaart.html
   - Planning:
     - Maandag 28 september: dagen/09-28-maandag.md
