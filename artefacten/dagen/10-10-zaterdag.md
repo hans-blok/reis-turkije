@@ -1,14 +1,14 @@
 # 10-10 zaterdag
 
-**Overnachten:** Ölüdeniz - hotel nog te boeken
+**Overnachten:** Fethiye - hotel nog te boeken
 
-Dag 13 van 16. Doorreis naar Ölüdeniz (ca. 4 uur, afhankelijk van het vertrekpunt van gisteren).
+Dag 13 van 16: parapente boven Ölüdeniz, hét hoogtepunt van deze fase van de reis.
 
 ## Bezienswaardigheden
 
-- **Strand & Blue Lagoon**: het bekende strand en de lagune van Ölüdeniz.
-- **Fethiye in de avond**: dichtbij Ölüdeniz, leuk voor het avondeten.
+- **Parapente vanaf Babadağ**: tandem-paragliding met uitzicht over de Blue Lagoon.
+- **Strand & Blue Lagoon**: uitrusten na de vlucht.
 
 ## Praktisch
 
-- Hotelopties: Tonoz Beach Hotel of Belcekiz Beach Club.
+- Boek de parapente ruim van tevoren; weersafhankelijk, 9 oktober kan als reservedag dienen.

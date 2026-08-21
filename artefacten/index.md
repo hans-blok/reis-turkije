@@ -4,7 +4,7 @@
 
 **28 september – 13 oktober 2026**
 
-Route: Istanboel · Cappadocië · Konya · Pamukkale · Efeze · Ölüdeniz · Kaş · Antalya
+Route: Istanboel · Cappadocië · Konya · Pamukkale · Fethiye/Ölüdeniz · Kaş · Antalya
 
 ---
 
@@ -20,12 +20,12 @@ Route: Istanboel · Cappadocië · Konya · Pamukkale · Efeze · Ölüdeniz · 
 | **[05 okt](dagen/10-05-maandag.md)** | 🚗 | Konya ✅ | rijden ± 3u30 | 06:48 | 18:29 | 20° / 7° |
 | **[06 okt](dagen/10-06-dinsdag.md)** | 🚗 | Pamukkale ⬜ | rijden ± 4u30–5u | 07:02 | 18:41 | 27° / 16° |
 | **[07 okt](dagen/10-07-woensdag.md)** | 🚶 | Pamukkale ⬜ | - | 07:03 | 18:40 | 26° / 15° |
-| **[08 okt](dagen/10-08-donderdag.md)** | 🚗 | Selçuk ⬜ | rijden ± 2u30 | 07:11 | 18:45 | 26° / 15° |
-| **[09 okt](dagen/10-09-vrijdag.md)** | 🚗 | Selçuk of Ölüdeniz ⬜ | evt. rijden richting Ölüdeniz | 07:12 | 18:44 | 25° / 15° |
-| **[10 okt](dagen/10-10-zaterdag.md)** | 🚗 | Ölüdeniz ⬜ | rijden ± 4u | 07:05 | 18:36 | 24° / 16° |
-| **[11 okt](dagen/10-11-zondag.md)** | 🪂 | Ölüdeniz ⬜ | - | 07:06 | 18:35 | 24° / 16° |
-| **[12 okt](dagen/10-12-maandag.md)** | 🚗 | Kaş ⬜ | rijden ± 2u30 | 07:04 | 18:31 | 22° / 13° |
-| **[13 okt](dagen/10-13-dinsdag.md)** | 🚗✈️ | - | rijden ± 3u + vlucht AYT–AMS, 4u30 | 07:02 | 18:25 | 27° / 16° |
+| **[08 okt](dagen/10-08-donderdag.md)** | 🚗 | Fethiye ⬜ | rijden ± 3u30 | 07:03 | 18:39 | 25° / 16° |
+| **[09 okt](dagen/10-09-vrijdag.md)** | 🚶 | Fethiye ⬜ | - | 07:04 | 18:37 | 25° / 16° |
+| **[10 okt](dagen/10-10-zaterdag.md)** | 🪂 | Fethiye ⬜ | - | 07:05 | 18:36 | 24° / 16° |
+| **[11 okt](dagen/10-11-zondag.md)** | 🚗 | Kaş ⬜ | rijden ± 2u30 | 07:04 | 18:33 | 22° / 13° |
+| **[12 okt](dagen/10-12-maandag.md)** | 🚗 | Antalya ⬜ | rijden ± 3u | 07:01 | 18:27 | 27° / 16° |
+| **[13 okt](dagen/10-13-dinsdag.md)** | ✈️ | - | auto inleveren + vlucht AYT–AMS, 4u30 | 07:02 | 18:25 | 27° / 16° |
 
 ✅ = hotel geboekt · ⬜ = hotel nog te boeken · zon op/onder berekend voor de locatie op die datum · temperatuur = klimaatgemiddelde overdag/'s nachts voor de tijd van het jaar (geen weersvoorspelling)
 

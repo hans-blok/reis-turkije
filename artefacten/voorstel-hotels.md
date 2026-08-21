@@ -8,16 +8,16 @@
 |---|---|---|---|
 | Pamukkale | The Cotton House ⭐ voorkeur | €80–100 (niet geverifieerd voor exacte data) | [🔗B](https://www.booking.com/hotel/tr/the-cotten-house.en-gb.html) · [🔗T](https://www.tripadvisor.com/Hotel_Review-g297992-d20850687-Reviews-The_Cotton_House-Pamukkale.html) · [🔗 Trip.com](https://www.trip.com/hotels/pamukkale-hotel-detail-52121483/the-cotton-house-hotel/) · [🔗 Officiële site](https://thecottonhousepamukkale.tr-hotels.com/en/) |
 | Pamukkale | Bellamaritimo Hotel | €40–47 | [🔗B](https://www.booking.com/hotel/tr/maritim.html) · [🔗T](https://www.tripadvisor.com/Hotel_Review-g297992-d1768828-Reviews-Bellamaritimo_Hotel-Pamukkale.html) · [🔗 Trip.com](https://www.trip.com/hotels/pamukkale-hotel-detail-2547291/bellamaritimo-hotel/) |
-| Selçuk | Agon Ephesus ⭐ voorkeur | €80–122 (niet geverifieerd voor exacte data) | [🔗B](https://www.booking.com/hotel/tr/agon-ephesus.html) · [🔗T](https://www.tripadvisor.com/Hotel_Review-g293976-d27427755-Reviews-Agon_Ephesus-Selcuk_Izmir_Province_Turkish_Aegean_Coast.html) · [🔗 Officiële site](https://agon-ephesus-hotel.aegeanhotelspage.com/en/) |
-| Selçuk | Ephesus Centrum Hotel | €65–93 (niet geverifieerd voor exacte data) | [🔗B](https://www.booking.com/hotel/tr/ephesus-centrum.html) · [🔗T](https://www.tripadvisor.com/Hotel_Review-g293976-d17424572-Reviews-Ephesus_Centrum-Selcuk_Izmir_Province_Turkish_Aegean_Coast.html) · [🔗 Officiële site](https://www.ephesuscentrum.com/hotel-rooms/) |
-| Ölüdeniz | Tonoz Beach Hotel ⭐ voorkeur | €78–99 | [🔗B](https://www.booking.com/hotel/tr/tonoz-beach.en-gb.html) · [🔗T](https://www.tripadvisor.com/Hotel_Review-g312737-d1144988-Reviews-Tonoz_Beach_Hotel-Oludeniz_Fethiye_Mugla_Province_Turkish_Aegean_Coast.html) · [🔗 Officiële site](https://tonozbeach.com/rooms/) |
-| Ölüdeniz | Belcekiz Beach Club | vermoedelijk > €110 (niet aangetoond onder budget) | [🔗B](https://www.booking.com/hotel/tr/belcekiz-beach.html) · [🔗T](https://www.tripadvisor.com/Hotel_Review-g312737-d311341-Reviews-or1090-Belcekiz_Beach_Club-Oludeniz_Fethiye_Mugla_Province_Turkish_Aegean_Coast.html) · [🔗 Officiële site](http://belcekiz.com/en/rooms/) |
+| Fethiye · Ölüdeniz | Tonoz Beach Hotel ⭐ voorkeur | €78–99 | [🔗B](https://www.booking.com/hotel/tr/tonoz-beach.en-gb.html) · [🔗T](https://www.tripadvisor.com/Hotel_Review-g312737-d1144988-Reviews-Tonoz_Beach_Hotel-Oludeniz_Fethiye_Mugla_Province_Turkish_Aegean_Coast.html) · [🔗 Officiële site](https://tonozbeach.com/rooms/) |
+| Fethiye · Ölüdeniz | Belcekiz Beach Club | vermoedelijk > €110 (niet aangetoond onder budget) | [🔗B](https://www.booking.com/hotel/tr/belcekiz-beach.html) · [🔗T](https://www.tripadvisor.com/Hotel_Review-g312737-d311341-Reviews-or1090-Belcekiz_Beach_Club-Oludeniz_Fethiye_Mugla_Province_Turkish_Aegean_Coast.html) · [🔗 Officiële site](http://belcekiz.com/en/rooms/) |
 | Kaş | Melisa Boutique Hotel & Spa ⭐ voorkeur | vermoedelijk < €110 (niet geverifieerd voor exacte data) | [🔗B](https://www.booking.com/hotel/tr/melisa-boutique.html) · [🔗T](https://www.tripadvisor.com/Hotel_Review-g297965-d23166754-Reviews-Melisa_Boutique_Hotel-Kas_Turkish_Mediterranean_Coast.html) · [🔗 Hotel.info](https://www.hotel.info/en/hotel/1186244) |
 | Kaş | Mandalina Luxury Suites | vanaf ± €155 (boven budget) | [🔗T](https://www.tripadvisor.com/Hotel_Review-g297965-d12223264-Reviews-Mandalina_Luxury_Boutique_Otel-Kas_Turkish_Mediterranean_Coast.html) · [🔗 HalalBooking](https://halalbooking.com/en/mandalina-luxury-suites/p/8615) |
+| Antalya | Sofa Hotels Kaleiçi ⭐ voorkeur | vanaf ± €65 (niet geverifieerd voor exacte data) | [🔗B](https://www.booking.com/hotel/tr/sofa-hotels-kaleici-antalya.html) · [🔗T](https://www.tripadvisor.com/Hotel_Review-g297962-d25904458-Reviews-Sofa_Hotels_Kaleici-Antalya_Turkish_Mediterranean_Coast.html) |
+| Antalya | Kaleiçi Hotel | €35–95 (niet geverifieerd voor exacte data) | [🔗T](https://www.tripadvisor.com/Hotel_Review-g297962-d637796-Reviews-Kaleici_Hotel-Antalya_Turkish_Mediterranean_Coast.html) |
 
 ## Samenvatting
 
-**Gecontroleerde plaatsen:** Istanboel, Göreme, Konya, Pamukkale, Selçuk, Ölüdeniz, Kaş.
+**Gecontroleerde plaatsen:** Istanboel, Göreme, Konya, Pamukkale, Fethiye/Ölüdeniz, Kaş, Antalya.
 
 **Al geboekt, dus uitgesloten van dit voorstel** (zie [overzicht-verblijven.md](overzicht-verblijven.md)):
 
@@ -28,9 +28,9 @@
 **Plaatsen waarvoor hotelvoorstellen nodig waren:**
 
 - Pamukkale (2 nachten, 6–8 oktober 2026)
-- Selçuk (1 nacht, 8–9 oktober 2026)
-- Ölüdeniz (2 nachten, ca. 9/10–12 oktober 2026)
-- Kaş (1 nacht, 12–13 oktober 2026)
+- Fethiye · Ölüdeniz (3 nachten, 8–11 oktober 2026)
+- Kaş (1 nacht, 11–12 oktober 2026)
+- Antalya (1 nacht, 11–12 oktober 2026)
 
 **Toegepaste eisen:** max. €110/nacht, bed ≥ 200 cm (geverifieerd, niet aangenomen op basis van "double/queen/king"), eigen badkamer en toilet, airconditioning, aantoonbare schoonheid uit recente reviews, geen terugkerende veiligheidsklachten. Waar een eis niet kon worden bevestigd staat dit expliciet vermeld als **Niet geverifieerd**.
 
@@ -83,60 +83,12 @@ Dit familiebedrijf heeft de sterkste en meest consistente recente reviews (4,9/5
 
 ---
 
-## Selçuk
-
-### Agon Ephesus
-
-- **Locatie / wijk:** Historisch centrum van Selçuk, rustige straat op de ruïnes van een oud badhuis; ca. 5 min lopen naar het centrum, ca. 3 km tot het Grote Theater van Efeze. Treinstation op loopafstand.
-- **Prijs per nacht:** $87–$132 (~€80–€122) afhankelijk van bron/moment. Exacte prijs voor 8–9 oktober 2026 **niet geverifieerd** (Booking.com blokkeerde geautomatiseerde toegang) — kan boven of onder €110 uitkomen. Onduidelijk of belasting inbegrepen is.
-- **Kamertype:** "Double Oda" / "Basic Room" (1 double bed) — geschikt kamertype binnen budget; duurdere suites (queen + extra bed) ook beschikbaar maar niet nodig.
-- **Bedtype en geverifieerde afmetingen:** "1 double bed" — **Niet geverifieerd** in cm, geen enkele bron geeft een concrete afmeting.
-- **Eigen badkamer en toilet:** Ja, "private bathrooms fitted with a shower" bevestigd door meerdere bronnen.
-- **Airconditioning:** Ja, bevestigd ("8 air-conditioned rooms").
-- **Bewijs voor schoonheid:** Recente Tripadvisor-reviews: "spotlessly clean rooms, beds and towels"; "modern and super clean rooms".
-- **Beoordeling van veiligheid en locatie:** Geen veiligheidsklachten over hotel of omgeving; Selçuk geldt algemeen als rustig en veilig.
-- **Reviewscore en aantal reviews:** Tripadvisor 5,0/5, maar op basis van slechts 8 reviews — beperkte statistische zekerheid.
-- **Annuleringsvoorwaarden:** Wisselend; op één platform gezien: non-refundable tarief. Controleer per boeking.
-- **Belangrijke nadelen of onzekerheden:** Zeer klein aantal reviews; bedlengte niet geverifieerd; exacte prijs voor de gevraagde data niet bevestigd.
-- **Bronnen / boekingslinks:**
-  - https://www.booking.com/hotel/tr/agon-ephesus.html
-  - https://www.tripadvisor.com/Hotel_Review-g293976-d27427755-Reviews-Agon_Ephesus-Selcuk_Izmir_Province_Turkish_Aegean_Coast.html
-  - https://agon-ephesus-hotel.aegeanhotelspage.com/en/
-- **Eindoordeel:** Acceptabel met kanttekening — bedlengte en exacte prijs niet geverifieerd.
-
-### Ephesus Centrum Hotel
-
-- **Locatie / wijk:** Centraal in Selçuk, ca. 2 min lopen van trein-/busstation, op loopafstand van het Ephesus Museum en de Tempel van Artemis.
-- **Prijs per nacht:** Losse waarnemingen voor de "Exclusive Double Room" van ca. $70–$100 (~€65–€93), niet specifiek voor 8–9 oktober 2026 — **niet geverifieerd** voor de exacte data. Onduidelijk of belasting inbegrepen is.
-- **Kamertype:** "Exclusive Double Room", 1 queen bed, 28 m², eigen badkamer, A/C. Vermijd kamertypes met bunk beds/3 single beds (Panoramic/Grand Room) — niet geschikt.
-- **Bedtype en geverifieerde afmetingen:** "1 queen bed" — **Niet geverifieerd** in cm.
-- **Eigen badkamer en toilet:** Ja, "private bathrooms that have a bidet and shower" expliciet bevestigd.
-- **Airconditioning:** Ja, bevestigd ("27 air-conditioned rooms").
-- **Bewijs voor schoonheid:** "Cleaned thoroughly and sheets are cleaned with strong detergents after every use"; "beds are really comfortable". **Kanttekening:** één recente (2025) review meldt vochtigheid/schimmelgeur in een kamer — lijkt een geïsoleerd geval te midden van overwegend positieve reviews, maar is een concreet recent signaal.
-- **Beoordeling van veiligheid en locatie:** Geen structurele veiligheidsklachten; centrale, drukke locatie nabij station.
-- **Reviewscore en aantal reviews:** Tripadvisor 4,9/5 (219 reviews, #5 van 46 hotels in Selçuk).
-- **Annuleringsvoorwaarden:** Niet met zekerheid vastgesteld — controleer bij boeking.
-- **Belangrijke nadelen of onzekerheden:** Eén recente vocht-/schimmelklacht; bedlengte niet geverifieerd; exacte prijs voor de gevraagde data niet bevestigd.
-- **Bronnen / boekingslinks:**
-  - https://www.booking.com/hotel/tr/ephesus-centrum.html
-  - https://www.tripadvisor.com/Hotel_Review-g293976-d17424572-Reviews-Ephesus_Centrum-Selcuk_Izmir_Province_Turkish_Aegean_Coast.html
-  - https://www.ephesuscentrum.com/hotel-rooms/
-- **Eindoordeel:** Acceptabel met kanttekening — bedlengte niet geverifieerd; één recente vochtklacht.
-
-**Niet opgenomen:** Akanthus Hotel Ephesus (Tripadvisor #1 in Selçuk, 5,0/5, 177 reviews) is onderzocht maar valt af: prijzen van $104–$294/nacht liggen ruim boven het budget van €110.
-
-**Voorkeurskeuze:** Agon Ephesus
-
-Beide hotels voldoen aantoonbaar aan eigen badkamer/toilet en airconditioning, met concreet recent bewijs van schoonheid. Agon Ephesus heeft een perfecte (al is het een kleine) reviewscore zonder enige negatieve melding over hygiëne, veiligheid of comfort, terwijl Ephesus Centrum één recente klacht over vocht/schimmelgeur kent. Vraag bij beide hotels vóór boeking expliciet de bedlengte na (minimaal 200 cm) en bevestig de prijs voor 8–9 oktober 2026 rechtstreeks.
-
----
-
-## Ölüdeniz
+## Fethiye · Ölüdeniz
 
 ### Tonoz Beach Hotel
 
 - **Locatie / wijk:** Ölüdeniz centrum, ca. 50 m van Belcekiz Beach, aan een hoofdstraat met winkels/restaurants (enkele reviews noemen verkeersgeluid).
-- **Prijs per nacht:** Op basis van meerdere aggregators (steekproef hoogseizoen): Standard Room ≈ $104/nacht (~€95-97), Deluxe Room ≈ $106/nacht (~€97-99), Double Room vanaf $85/nacht (~€78). Exacte live-prijs voor 9–12 oktober 2026 niet rechtstreeks bevestigd, maar oktober geldt doorgaans als goedkoper dan het hoogseizoen — ruim onder €110 zeer aannemelijk.
+- **Prijs per nacht:** Op basis van meerdere aggregators (steekproef hoogseizoen): Standard Room ≈ $104/nacht (~€95-97), Deluxe Room ≈ $106/nacht (~€97-99), Double Room vanaf $85/nacht (~€78). Exacte live-prijs voor 8–11 oktober 2026 niet rechtstreeks bevestigd, maar oktober geldt doorgaans als goedkoper dan het hoogseizoen — ruim onder €110 zeer aannemelijk.
 - **Kamertype:** Deluxe Room, 18 m², geschikt voor 2 volwassenen.
 - **Bedtype en geverifieerde afmetingen:** **Geverifieerd** via de officiële hotelwebsite (tonozbeach.com/rooms/): 1 bed van 150 × 200 cm. Voldoet aan de eis van minimaal 200 cm.
 - **Eigen badkamer en toilet:** Ja, "shower cabin, WC, hair dryer" per kamer (privé), bevestigd via officiële website.
@@ -183,7 +135,7 @@ Tonoz Beach Hotel is het enige van de twee onderzochte kandidaten waarvoor zowel
 ### Melisa Boutique Hotel & Spa
 
 - **Locatie / wijk:** Andifli Mahallesi, Bahçe Sokak, centraal in het oude centrum/bazaar van Kaş, op loopafstand van de jachthaven, de Lycische rotsgraven en Little Pebble Beach.
-- **Prijs per nacht:** Sterk uiteenlopende bedragen tussen bronnen (van ~$43/nacht tot $139–287/nacht, afhankelijk van seizoen/kamertype/bron). Live-prijs voor 12–13 oktober 2026 **niet geverifieerd** (Booking.com/Agoda/Expedia niet raadpleegbaar) — waarschijnlijk onder €110 in het laagseizoen (oktober), maar dit moet handmatig bevestigd worden.
+- **Prijs per nacht:** Sterk uiteenlopende bedragen tussen bronnen (van ~$43/nacht tot $139–287/nacht, afhankelijk van seizoen/kamertype/bron). Live-prijs voor 11–12 oktober 2026 **niet geverifieerd** (Booking.com/Agoda/Expedia niet raadpleegbaar) — waarschijnlijk onder €110 in het laagseizoen (oktober), maar dit moet handmatig bevestigd worden.
 - **Kamertype:** City Double Room of Standard Double Room (1 queen bed). Ook Deluxe King Room en een Penthouse beschikbaar, maar niet nodig.
 - **Bedtype en geverifieerde afmetingen:** "1 Queen bed" — **Niet geverifieerd** in cm bij geen enkele bron.
 - **Eigen badkamer en toilet:** Ja, bevestigd: "a private bathroom fitted with a shower and a hairdryer" in alle kamers.
@@ -221,17 +173,60 @@ Tonoz Beach Hotel is het enige van de twee onderzochte kandidaten waarvoor zowel
 
 **Voorkeurskeuze:** Melisa Boutique Hotel & Spa
 
-Dit hotel heeft verreweg de sterkste en meest consistente reviews op het gebied van netheid, een bevestigde eigen badkamer en airconditioning in alle kamers, en een centrale, veilige ligging in Kaş — tegen een prijsniveau dat in meerdere bronnen ruim onder €110/nacht ligt (al is het exacte tarief voor 12–13 oktober 2026 niet rechtstreeks geverifieerd). Mandalina Luxury Suites valt af omdat zelfs het goedkoopste gevonden tarief het budget fors overschrijdt, naast wisselende netheids- en airco-signalen.
+Dit hotel heeft verreweg de sterkste en meest consistente reviews op het gebied van netheid, een bevestigde eigen badkamer en airconditioning in alle kamers, en een centrale, veilige ligging in Kaş — tegen een prijsniveau dat in meerdere bronnen ruim onder €110/nacht ligt (al is het exacte tarief voor 11–12 oktober 2026 niet rechtstreeks geverifieerd). Mandalina Luxury Suites valt af omdat zelfs het goedkoopste gevonden tarief het budget fors overschrijdt, naast wisselende netheids- en airco-signalen.
+
+---
+
+## Antalya
+
+### Sofa Hotels Kaleiçi
+
+- **Locatie / wijk:** Hartje Kaleiçi (oude stad), ca. 5 minuten lopen naar Mermerli Beach en de jachthaven — op loopafstand van de bezienswaardigheden voor de laatste ochtend.
+- **Prijs per nacht:** Vanaf ca. $71/nacht (~€65) volgens meerdere aggregators. Exacte prijs voor 12–13 oktober 2026 **niet geverifieerd** (Booking.com niet rechtstreeks raadpleegbaar) en onduidelijk of stadsbelasting is inbegrepen.
+- **Kamertype:** Standaardkamer met airco, minibar, föhn en flatscreen-tv; ook familie-/verbonden kamers beschikbaar (niet nodig).
+- **Bedtype en geverifieerde afmetingen:** Bedtype niet gespecificeerd in de geraadpleegde bronnen — **niet geverifieerd** in cm.
+- **Eigen badkamer en toilet:** Ja, bevestigd ("private bathrooms").
+- **Airconditioning:** Ja, bevestigd in alle kamers.
+- **Bewijs voor schoonheid:** Reviews noemen de kamers expliciet "erg schoon en praktisch"; hoge waardering voor het ontbijt.
+- **Beoordeling van veiligheid en locatie:** Geen veiligheidsklachten; centrale ligging middenin de ommuurde oude stad, algemeen als veilig en rustig omschreven.
+- **Reviewscore en aantal reviews:** Tripadvisor 5,0/5, genoteerd als #80 van 492 hotels in Antalya — reviewaantal niet met zekerheid vastgesteld in de geraadpleegde bronnen.
+- **Annuleringsvoorwaarden:** Niet met zekerheid vastgesteld — controleer bij boeking.
+- **Belangrijke nadelen of onzekerheden:** Bedlengte niet geverifieerd; exacte prijs voor de gevraagde data niet bevestigd; reviewaantal achter de 5,0-score niet met zekerheid vastgesteld.
+- **Bronnen / boekingslinks:**
+  - https://www.booking.com/hotel/tr/sofa-hotels-kaleici-antalya.html
+  - https://www.tripadvisor.com/Hotel_Review-g297962-d25904458-Reviews-Sofa_Hotels_Kaleici-Antalya_Turkish_Mediterranean_Coast.html
+- **Eindoordeel:** Acceptabel met kanttekening — bedlengte en exacte prijs voor de gevraagde data niet geverifieerd.
+
+### Kaleiçi Hotel
+
+- **Locatie / wijk:** Binnen de oude stadsmuren van Kaleiçi, op ca. 10 minuten lopen van de bazaar en de Klokkentoren.
+- **Prijs per nacht:** Sterk uiteenlopend per bron en kamertype: $35–$104/nacht (~€32–€96) — ruim binnen budget, maar exacte prijs voor 12–13 oktober 2026 **niet geverifieerd**.
+- **Kamertype:** Let op: de goedkoopste "Double Room"-optie die is teruggevonden heeft **2 twin bedden**, niet geschikt gezien de bedlengte-eis. Een kamertype met 1 groot bed is niet met zekerheid teruggevonden — dit moet bij boeking expliciet worden nagevraagd.
+- **Bedtype en geverifieerde afmetingen:** Twin-bedden optie gevonden (niet geschikt); **niet geverifieerd** of en welk kamertype een bed van 200+ cm heeft.
+- **Eigen badkamer en toilet:** Vermoedelijk ja (gebruikelijk voor dit hoteltype), niet expliciet bevestigd in de geraadpleegde bronnen.
+- **Airconditioning:** Ja, bevestigd ("13 air-conditioned rooms").
+- **Bewijs voor schoonheid:** Reviews noemen het hotel "charmant", "schoon en rustig", gerund door een gastvrije familie.
+- **Beoordeling van veiligheid en locatie:** Geen veiligheidsklachten; rustige plek binnen de oude stadsmuren, op loopafstand van bars en restaurants.
+- **Reviewscore en aantal reviews:** 8,2/10 (706 reviews) op een grote boekingssite.
+- **Annuleringsvoorwaarden:** Niet met zekerheid vastgesteld — controleer bij boeking.
+- **Belangrijke nadelen of onzekerheden:** Geschikt kamertype (1 bed ≥ 200 cm) niet bevestigd — grootste risico van de twee kandidaten; exacte prijs voor de gevraagde data niet bevestigd.
+- **Bronnen / boekingslinks:**
+  - https://www.tripadvisor.com/Hotel_Review-g297962-d637796-Reviews-Kaleici_Hotel-Antalya_Turkish_Mediterranean_Coast.html
+- **Eindoordeel:** Voldoet niet aantoonbaar aan de eisen — geschikt kamertype met bed ≥ 200 cm niet bevestigd.
+
+**Voorkeurskeuze:** Sofa Hotels Kaleiçi
+
+Beide hotels liggen centraal in Kaleiçi en ruim binnen budget, maar Kaleiçi Hotel kon alleen met een twin-bedden kamertype worden teruggevonden, wat niet aan de bedlengte-eis voldoet. Sofa Hotels Kaleiçi heeft een perfecte (Tripadvisor 5,0/5) score, bevestigde airco en eigen badkamer, en geen concreet negatief signaal — al is ook hier de bedlengte niet geverifieerd. Vraag dit bij boeking expliciet na.
 
 ---
 
 ## Openstaande actiepunten vóór boeking
 
-Voor elk van de vier voorkeurskeuzes geldt dat minimaal één verplicht criterium niet volledig geverifieerd kon worden via openbare bronnen. Vraag dit bij boeking rechtstreeks na bij het hotel:
+Voor elk van de vijf voorkeurskeuzes geldt dat minimaal één verplicht criterium niet volledig geverifieerd kon worden via openbare bronnen. Vraag dit bij boeking rechtstreeks na bij het hotel:
 
 - **The Cotton House (Pamukkale):** bevestig de bedlengte (minimaal 200 cm) en de prijs voor 6–8 oktober 2026 inclusief eventuele stadsbelasting.
-- **Agon Ephesus (Selçuk):** bevestig de bedlengte en de prijs voor 8–9 oktober 2026.
-- **Tonoz Beach Hotel (Ölüdeniz):** bedlengte is al geverifieerd (150×200 cm); bevestig alleen de exacte prijs voor de gekozen data.
-- **Melisa Boutique Hotel & Spa (Kaş):** bevestig de bedlengte en de prijs voor 12–13 oktober 2026.
+- **Tonoz Beach Hotel (Fethiye · Ölüdeniz):** bedlengte is al geverifieerd (150×200 cm); bevestig alleen de exacte prijs voor 8–11 oktober 2026.
+- **Melisa Boutique Hotel & Spa (Kaş):** bevestig de bedlengte en de prijs voor 11–12 oktober 2026.
+- **Sofa Hotels Kaleiçi (Antalya):** bevestig de bedlengte en de prijs voor 12–13 oktober 2026.
 
 Vermeld bij het navragen expliciet dat een bed van minimaal 200 cm nodig is (partner is 1,93 m) — vraag zo nodig om een foto of specificatie van het bed.

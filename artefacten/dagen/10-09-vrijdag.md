@@ -1,16 +1,15 @@
 # 10-09 vrijdag
 
-**Overnachten:** Selçuk of Ölüdeniz (nog te bepalen)
+**Overnachten:** Fethiye - hotel nog te boeken
 
-Dag 12 van 16: Efeze, en dan de knoop doorhakken over vannacht.
+Dag 12 van 16: een rustige dag rond Ölüdeniz en Fethiye.
 
 ## Bezienswaardigheden
 
-- **Efeze**: bij opening om 08:00, om de drukte en de hitte voor te zijn.
-- **Strand Pamucak**: 's middags ontspannen aan het strand vlak bij Selçuk.
-- **Eventueel doorrijden naar Ölüdeniz**: als er nog energie en tijd is.
+- **Strand & Blue Lagoon**: uitrusten aan het water.
+- **Wandeling langs de kust**: rustig verkennen van de omgeving van Ölüdeniz.
+- **Fethiye nachtmarkt**: in de avond, voor eten en sfeer.
 
 ## Praktisch
 
-- Deze dag is nog open: overnachten in Selçuk of alvast doorrijden naar Ölüdeniz. Deze keuze bepaalt ook of jullie later 1 of 2 nachten in Kaş blijven.
-- Zorg dat de Efeze-tickets al online zijn gekocht (zie dag 11).
+- Reservedag: bruikbaar als de parapente morgen (10 okt) door weer moet verschuiven.
