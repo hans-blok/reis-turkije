@@ -1,6 +1,6 @@
 # 10-01 donderdag
 
-**Overnachten:** nog toevoegen - nog toevoegen
+**Overnachten:** Istanboel - Alilass Hotel
 
 nog toevoegen.
 

@@ -5,10 +5,10 @@
 # ------------------------------------------------------------
 # 1. Site Identity
 # ------------------------------------------------------------
-site_name: "Wenen 2026"
-site_description: "Leanne en Hans in Oostenrijk"
+site_name: "Reis Turkije 2026"
+site_description: "Leanne en Hans in Turkije"
 site_author: "Hans & Leanne"
-site_url: "url://localhost:8000"  # Update when publishing
+site_url: "https://hans-blok.github.io/reis-turkije/"
 
 # Optioneel: repository referentie
 # repo_name: "entoli-startup"
@@ -46,8 +46,8 @@ theme:
   font:
     text: "Segoe UI"
     code: "Consolas"
-  icon:
-    logo: material/train
+  logo: assets/vlag-turkije.jpg
+  favicon: assets/vlag-turkije.jpg
 
 # ------------------------------------------------------------
 # 4. Custom Styling - Entoli Stylesheet
@@ -111,13 +111,25 @@ markdown_extensions:
 # ------------------------------------------------------------
 nav:
   - Home: index.md
-  - Sightseeing overzicht: 00-sightseeing-overzicht.md
+  - Vluchten: vluchten.md
+  - Overzicht verblijven: overzicht-verblijven.md
   - Planning:
-    - Vrijdag 29 mei - Treinreis: 01-vrijdag.md
-    - Zaterdag 30 mei - Belvedere & Binnenstad: 02-zaterdag.md
-    - Zondag 31 mei - Graz & Renske: 03-zondag.md
-    - Maandag 1 juni - Schönbrunn & Prater: 04-maandag.md
-    - Dinsdag 2 juni - Terugreis: 05-dinsdag.md
+    - Maandag 28 september: dagen/09-28-maandag.md
+    - Dinsdag 29 september: dagen/09-29-dinsdag.md
+    - Woensdag 30 september: dagen/09-30-woensdag.md
+    - Donderdag 1 oktober: dagen/10-01-donderdag.md
+    - Vrijdag 2 oktober: dagen/10-02-vrijdag.md
+    - Zaterdag 3 oktober: dagen/10-03-zaterdag.md
+    - Zondag 4 oktober: dagen/10-04-zondag.md
+    - Maandag 5 oktober: dagen/10-05-maandag.md
+    - Dinsdag 6 oktober: dagen/10-06-dinsdag.md
+    - Woensdag 7 oktober: dagen/10-07-woensdag.md
+    - Donderdag 8 oktober: dagen/10-08-donderdag.md
+    - Vrijdag 9 oktober: dagen/10-09-vrijdag.md
+    - Zaterdag 10 oktober: dagen/10-10-zaterdag.md
+    - Zondag 11 oktober: dagen/10-11-zondag.md
+    - Maandag 12 oktober: dagen/10-12-maandag.md
+    - Dinsdag 13 oktober: dagen/10-13-dinsdag.md
 
 # ------------------------------------------------------------
 # 8. Extra Configuration

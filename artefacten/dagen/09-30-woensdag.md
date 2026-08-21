@@ -1,6 +1,6 @@
 # 09-30 woensdag
 
-**Overnachten:** nog toevoegen - nog toevoegen
+**Overnachten:** Istanboel - Alilass Hotel
 
 nog toevoegen.
 
