@@ -18,11 +18,11 @@ Route: Istanboel · Cappadocië · Konya · Pamukkale · Fethiye/Ölüdeniz · K
 | **[03 okt](dagen/10-03-zaterdag.md)** | 🎈 | Göreme ✅ | - | 06:37 | 18:22 | 22° / 8° |
 | **[04 okt](dagen/10-04-zondag.md)** | 🚶 | Göreme ✅ | - | 06:38 | 18:21 | 21° / 7° |
 | **[05 okt](dagen/10-05-maandag.md)** | 🚗 | Konya ✅ | rijden ± 3u30 | 06:48 | 18:29 | 20° / 7° |
-| **[06 okt](dagen/10-06-dinsdag.md)** | 🚗 | Pamukkale ⬜ | rijden ± 4u30–5u | 07:02 | 18:41 | 27° / 16° |
-| **[07 okt](dagen/10-07-woensdag.md)** | 🚶 | Pamukkale ⬜ | - | 07:03 | 18:40 | 26° / 15° |
-| **[08 okt](dagen/10-08-donderdag.md)** | 🚗 | Fethiye ⬜ | rijden ± 3u30 | 07:03 | 18:39 | 25° / 16° |
-| **[09 okt](dagen/10-09-vrijdag.md)** | 🚶 | Fethiye ⬜ | - | 07:04 | 18:37 | 25° / 16° |
-| **[10 okt](dagen/10-10-zaterdag.md)** | 🪂 | Fethiye ⬜ | - | 07:05 | 18:36 | 24° / 16° |
+| **[06 okt](dagen/10-06-dinsdag.md)** | 🚗 | Pamukkale ✅ | rijden ± 4u30–5u | 07:02 | 18:41 | 27° / 16° |
+| **[07 okt](dagen/10-07-woensdag.md)** | 🚶 | Pamukkale ✅ | - | 07:03 | 18:40 | 26° / 15° |
+| **[08 okt](dagen/10-08-donderdag.md)** | 🚗 | Ölüdeniz ✅ | rijden ± 3u30 | 07:03 | 18:39 | 25° / 16° |
+| **[09 okt](dagen/10-09-vrijdag.md)** | 🚶 | Ölüdeniz ✅ | - | 07:04 | 18:37 | 25° / 16° |
+| **[10 okt](dagen/10-10-zaterdag.md)** | 🪂 | Ölüdeniz ✅ | - | 07:05 | 18:36 | 24° / 16° |
 | **[11 okt](dagen/10-11-zondag.md)** | 🚗 | Kaş ⬜ | rijden ± 2u30 | 07:04 | 18:33 | 22° / 13° |
 | **[12 okt](dagen/10-12-maandag.md)** | 🚗 | Antalya ⬜ | rijden ± 3u | 07:01 | 18:27 | 27° / 16° |
 | **[13 okt](dagen/10-13-dinsdag.md)** | ✈️ | - | auto inleveren + vlucht AYT–AMS, 4u30 | 07:02 | 18:25 | 27° / 16° |
