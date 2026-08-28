@@ -7,6 +7,7 @@
 | Sırçalı Hotel | maandag 5 oktober 2026 | dinsdag 6 oktober 2026 | [sircalihotel.com](https://www.sircalihotel.com/en) |
 | Venus Suite Hotel | zaterdag 6 oktober 2026 | maandag 8 oktober 2026 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Venus+Suite+Hotel+Pamukkale) |
 | Ölüdeniz Loft - Adults Only | woensdag 8 oktober 2026 | zaterdag 11 oktober 2026 | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C3%96l%C3%BCdeniz+Loft+Adults+Only) |
+| Hotel Lykia Old Town Antalya | maandag 12 oktober 2026 | dinsdag 13 oktober 2026 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hotel+Lykia+Old+Town+Antalya) |
 
 ## [Alilass Hotel](https://www.booking.com/hotel/tr/alilass.html)
 
@@ -162,3 +163,33 @@ Turkije
 ### Opmerking
 
 Geboekt in de WhatsApp-berichten en toegevoegd aan het schema na bevestiging.
+
+## [Hotel Lykia Old Town Antalya](https://www.google.com/maps/search/?api=1&query=Hotel+Lykia+Old+Town+Antalya)
+
+**Maandag 12 oktober 2026 – dinsdag 13 oktober 2026**
+
+### Reisdetails
+
+| Onderdeel | Informatie |
+|----------|------------|
+| Check-in | 14:00 – 00:00 |
+| Check-out | 00:00 – 12:00 |
+| Locatie | Kılınçarslan Mahallesi, Fırın Sokak, No:7, Muratpaşa/Antalya, Historisch Centrum Kaleici, 07100 Antalya, Turkije |
+| Routebeschrijving | Ontvang een routebeschrijving |
+| Accommodatievoorwaarden | Bekijk alle voorwaarden |
+
+### Adres
+
+Kılınçarslan Mahallesi, Fırın Sokak, No:7  
+Muratpaşa/Antalya, Historisch Centrum Kaleici  
+07100 Antalya, Turkije
+
+### Belangrijke informatie
+
+- Inchecken: 14:00 – 00:00
+- Uitchecken: 00:00 – 12:00
+- Verblijf: 1 nacht
+
+### Opmerking
+
+Gepubliceerd vanuit de Booking.com-gegevens in de meegeleverde screenshot.

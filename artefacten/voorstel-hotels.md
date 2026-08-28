@@ -24,13 +24,13 @@
 - Istanboel — Alilass Hotel
 - Göreme — Mosaic Cave Hotel
 - Konya — Sırçalı Hotel
+- Pamukkale — Venus Suite Hotel
+- Fethiye · Ölüdeniz — Ölüdeniz Loft - Adults Only
+- Antalya — Hotel Lykia Old Town Antalya
 
 **Plaatsen waarvoor hotelvoorstellen nodig waren:**
 
-- Pamukkale (2 nachten, 6–8 oktober 2026)
-- Fethiye · Ölüdeniz (3 nachten, 8–11 oktober 2026)
 - Kaş (1 nacht, 11–12 oktober 2026)
-- Antalya (1 nacht, 11–12 oktober 2026)
 
 **Toegepaste eisen:** max. €110/nacht, bed ≥ 200 cm (geverifieerd, niet aangenomen op basis van "double/queen/king"), eigen badkamer en toilet, airconditioning, aantoonbare schoonheid uit recente reviews, geen terugkerende veiligheidsklachten. Waar een eis niet kon worden bevestigd staat dit expliciet vermeld als **Niet geverifieerd**.
 
@@ -222,11 +222,8 @@ Beide hotels liggen centraal in Kaleiçi en ruim binnen budget, maar Kaleiçi Ho
 
 ## Openstaande actiepunten vóór boeking
 
-Voor elk van de vijf voorkeurskeuzes geldt dat minimaal één verplicht criterium niet volledig geverifieerd kon worden via openbare bronnen. Vraag dit bij boeking rechtstreeks na bij het hotel:
+Pamukkale, Fethiye · Ölüdeniz en Antalya zijn inmiddels geboekt (zie [overzicht-verblijven.md](overzicht-verblijven.md)). Voor Kaş resteert nog een verplicht criterium dat niet volledig geverifieerd kon worden via openbare bronnen. Vraag dit bij boeking rechtstreeks na bij het hotel:
 
-- **The Cotton House (Pamukkale):** bevestig de bedlengte (minimaal 200 cm) en de prijs voor 6–8 oktober 2026 inclusief eventuele stadsbelasting.
-- **Tonoz Beach Hotel (Fethiye · Ölüdeniz):** bedlengte is al geverifieerd (150×200 cm); bevestig alleen de exacte prijs voor 8–11 oktober 2026.
 - **Melisa Boutique Hotel & Spa (Kaş):** bevestig de bedlengte en de prijs voor 11–12 oktober 2026.
-- **Sofa Hotels Kaleiçi (Antalya):** bevestig de bedlengte en de prijs voor 12–13 oktober 2026.
 
 Vermeld bij het navragen expliciet dat een bed van minimaal 200 cm nodig is (partner is 1,93 m) — vraag zo nodig om een foto of specificatie van het bed.
