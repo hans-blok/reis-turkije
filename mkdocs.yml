@@ -51,7 +51,9 @@ theme:
 # Owner: Presentation Architect
 # ------------------------------------------------------------
 extra_css:
-  - assets/custom.css
+  # ?v= ophogen bij elke wijziging in custom.css: browsers halen het bestand
+  # anders uit hun cache en tonen de oude opmaak bij nieuwe inhoud.
+  - assets/custom.css?v=2
 
 extra_javascript: []
 
