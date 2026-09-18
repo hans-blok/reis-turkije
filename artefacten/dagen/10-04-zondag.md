@@ -1,8 +1,14 @@
-# 10-04 zondag
+<div class="trip-hero" markdown="1">
+<span class="trip-eyebrow">Dag 7 van 16</span>
 
-**Overnachten:** Göreme - Mosaic Cave Hotel
+# Zondag 4 oktober
 
-Dag 7 van 16: ondergrondse steden en bijzondere rotsformaties. Ook reservedag voor de ballonvaart bij slecht weer op dag 6.
+<p class="trip-lead">Dag 7 van 16: ondergrondse steden en bijzondere rotsformaties. Ook reservedag voor de ballonvaart bij slecht weer op dag 6.</p>
+
+<dl class="trip-facts">
+  <div><dt>Overnachten</dt><dd>Göreme · <a href="../../overzicht-verblijven/">Mosaic Cave Hotel</a></dd></div>
+</dl>
+</div>
 
 ## Bezienswaardigheden
 

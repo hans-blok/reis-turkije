@@ -1,8 +1,14 @@
-# 09-30 woensdag
+<div class="trip-hero" markdown="1">
+<span class="trip-eyebrow">Dag 3 van 16</span>
 
-**Overnachten:** Istanboel - Alilass Hotel
+# Woensdag 30 september
 
-Dag 3 van 16: markten en de Bosporus.
+<p class="trip-lead">Dag 3 van 16: markten en de Bosporus.</p>
+
+<dl class="trip-facts">
+  <div><dt>Overnachten</dt><dd>Istanboel · <a href="../../overzicht-verblijven/">Alilass Hotel</a></dd></div>
+</dl>
+</div>
 
 ## Bezienswaardigheden
 

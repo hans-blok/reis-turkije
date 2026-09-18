@@ -1,36 +1,61 @@
-# Huurauto
+<div class="trip-hero" markdown="1">
+<span class="trip-eyebrow">Huurauto · Sunny Cars</span>
 
-**Sunny Cars — voorlopige boekingsbevestiging**
+# Kayseri → Antalya
 
-> Let op: dit document is nog **geen voucher**. De reservering is pas bindend zodra de voucher is ontvangen; met die voucher wordt de auto opgehaald bij de lokale verhuurpartner.
+<p class="trip-lead">Elf dagen met een Hyundai i20 of gelijkwaardig, van de luchthaven van Kayseri tot de luchthaven van Antalya.</p>
 
-📄 [Download de boekingsbevestiging (PDF)](documenten/huurauto-boekingsbevestiging.pdf)
+<dl class="trip-facts">
+  <div><dt>Ophalen</dt><dd>vr 2 okt, 14:30</dd></div>
+  <div><dt>Inleveren</dt><dd>di 13 okt, 10:30</dd></div>
+  <div><dt>Totaalprijs</dt><dd>€ 674,00</dd></div>
+  <div><dt>Reservering</dt><dd>16177100</dd></div>
+</dl>
+</div>
 
-## Kerngegevens
+> Dit document is nog **geen voucher**. De reservering is pas bindend zodra de voucher is ontvangen; met die voucher wordt de auto opgehaald bij de lokale verhuurpartner.
 
-| Onderdeel | Informatie |
-|-----------|------------|
-| Reserveringsnummer | 16177100 |
-| Hoofdbestuurder | Mevrouw Sasker, Leanne |
-| Auto | Categorie BC — Hyundai i20 / airco / automaat / 4-deurs of gelijkwaardig |
-| Categorie lokale verhuurpartner | IDAR |
-| Lokale verhuurpartner | Circular Car Hire |
-| Huurperiode | 11 dagen |
-| Geboekte service | All-in / AD |
-| Totaalprijs | € 674,00 (huursom € 674,00, flexservice € 0,00) |
-| One way toeslag | € 289,78 — ter plaatse te betalen |
+<a class="mm-doc" href="../documenten/huurauto-boekingsbevestiging.pdf">📄 Boekingsbevestiging (PDF)</a>
 
 ## Ophalen en inleveren
 
-| | Ophalen | Inleveren |
-|---|---------|-----------|
-| Locatie | Turkije, Kayseri luchthaven | Turkije, Antalya luchthaven |
-| Datum/tijd | vrijdag 2 oktober 2026, 14:30 | dinsdag 13 oktober 2026, 10:30 |
-| Vlucht | TK1952 (aankomst 14:25) | — |
-| Instructies | Meet & Greet Service in de arrivals hall | Meet & Greet Service net buiten de arrivals-uitgang |
-| Openingstijden | ma–zo 00:00–23:59 | ma–zo 00:00–23:59 |
+<div class="mm-card">
+  <div class="mm-card__head">
+    <span class="mm-card__title">Ophalen · Kayseri luchthaven</span>
+    <span class="mm-card__sub">vrijdag 2 oktober 2026, 14:30</span>
+  </div>
+  <dl class="mm-facts" style="margin-top:0.9rem">
+    <div><dt>Instructies</dt><dd>Meet &amp; Greet Service in de arrivals hall</dd></div>
+    <div><dt>Vlucht</dt><dd>TK1952, aankomst 14:25 (<a href="../vluchten/">vluchten</a>)</dd></div>
+    <div><dt>Openingstijden</dt><dd>ma – zo, 00:00 – 23:59</dd></div>
+  </dl>
+</div>
 
-Zie ook [vluchten](vluchten.md), [2 oktober](dagen/10-02-vrijdag.md) en [13 oktober](dagen/10-13-dinsdag.md).
+<div class="mm-card">
+  <div class="mm-card__head">
+    <span class="mm-card__title">Inleveren · Antalya luchthaven</span>
+    <span class="mm-card__sub">dinsdag 13 oktober 2026, 10:30</span>
+  </div>
+  <dl class="mm-facts" style="margin-top:0.9rem">
+    <div><dt>Instructies</dt><dd>Meet &amp; Greet Service net buiten de arrivals-uitgang</dd></div>
+    <div><dt>Daarna</dt><dd>Terugvlucht om 13:05 (<a href="../vluchten/">vluchten</a>)</dd></div>
+    <div><dt>Openingstijden</dt><dd>ma – zo, 00:00 – 23:59</dd></div>
+  </dl>
+</div>
+
+## De boeking
+
+<dl class="mm-facts">
+  <div><dt>Reserveringsnummer</dt><dd>16177100</dd></div>
+  <div><dt>Hoofdbestuurder</dt><dd>Mevrouw Sasker, Leanne</dd></div>
+  <div><dt>Auto</dt><dd>Categorie BC — Hyundai i20 / airco / automaat / 4-deurs of gelijkwaardig</dd></div>
+  <div><dt>Categorie verhuurpartner</dt><dd>IDAR</dd></div>
+  <div><dt>Lokale verhuurpartner</dt><dd>Circular Car Hire</dd></div>
+  <div><dt>Huurperiode</dt><dd>11 dagen</dd></div>
+  <div><dt>Geboekte service</dt><dd>All-in / AD</dd></div>
+  <div><dt>Totaalprijs</dt><dd>€ 674,00 — huursom € 674,00, flexservice € 0,00</dd></div>
+  <div><dt>One way toeslag</dt><dd>€ 289,78 — ter plaatse te betalen</dd></div>
+</dl>
 
 ## Meenemen bij het ophalen
 
@@ -61,7 +86,9 @@ Zie ook [vluchten](vluchten.md), [2 oktober](dagen/10-02-vrijdag.md) en [13 okto
 - Alleen bestuurders die in het huurcontract staan mogen rijden; anders vervalt de verzekeringsdekking.
 - Verlengen na ingang van de huurperiode kan niet via Sunny Cars, alleen rechtstreeks ter plaatse — zonder dekking van Sunny Cars.
 
-## Kosten extra's (ter plaatse te betalen)
+## Kosten extra's
+
+Deze extra's worden ter plaatse aan de lokale verhuurpartner betaald.
 
 | Extra | Prijs |
 |-------|-------|
@@ -70,4 +97,4 @@ Zie ook [vluchten](vluchten.md), [2 oktober](dagen/10-02-vrijdag.md) en [13 okto
 | GPS | € 11,80 per dag (excl. lokale belastingen) |
 | Ophalen of inleveren buiten openingstijden | € 11,80 per huurperiode (excl. lokale belastingen) |
 
-Genoemde tarieven voor aanvullende diensten kunnen wijzigen en zijn niet gegarandeerd.
+<p class="mm-note">Genoemde tarieven voor aanvullende diensten kunnen wijzigen en zijn niet gegarandeerd.</p>

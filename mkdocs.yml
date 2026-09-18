@@ -27,11 +27,9 @@ site_dir: "site"
 # ------------------------------------------------------------
 theme:
   name: "material"
-  language: "en"
+  language: "nl"
   features:
     - navigation.instant
-    - navigation.sections
-    - navigation.expand
     - navigation.top
     - navigation.tabs
     - navigation.tabs.sticky
@@ -41,12 +39,10 @@ theme:
     - search.suggest
     - search.highlight
   palette:
-    scheme: slate
-    primary: black
-    accent: deep orange
-  font:
-    text: "Segoe UI"
-    code: "Consolas"
+    scheme: default
+    primary: custom
+    accent: custom
+  font: false
   logo: assets/vlag-turkije.jpg
   favicon: assets/vlag-turkije.jpg
 
@@ -64,7 +60,7 @@ extra_javascript: []
 # ------------------------------------------------------------
 plugins:
   - search:
-      lang: en
+      lang: nl
 
 # ------------------------------------------------------------
 # 6. Markdown Extensions
@@ -80,7 +76,7 @@ markdown_extensions:
   - tables
   - toc:
       permalink: false
-      toc_depth: 3
+      toc_depth: 2
 
   # Python Markdown Extensions
   - pymdownx.arithmatex:
@@ -112,29 +108,30 @@ markdown_extensions:
 # Primary responsibility: Publication Steward
 # ------------------------------------------------------------
 nav:
+  - Overzicht: index.md
+  - Planning:
+    - "ma 28 sep · Istanboel": dagen/09-28-maandag.md
+    - "di 29 sep · Istanboel": dagen/09-29-dinsdag.md
+    - "wo 30 sep · Istanboel": dagen/09-30-woensdag.md
+    - "do 1 okt · Istanboel": dagen/10-01-donderdag.md
+    - "vr 2 okt · Göreme": dagen/10-02-vrijdag.md
+    - "za 3 okt · Göreme": dagen/10-03-zaterdag.md
+    - "zo 4 okt · Göreme": dagen/10-04-zondag.md
+    - "ma 5 okt · Konya": dagen/10-05-maandag.md
+    - "di 6 okt · Pamukkale": dagen/10-06-dinsdag.md
+    - "wo 7 okt · Pamukkale": dagen/10-07-woensdag.md
+    - "do 8 okt · Ölüdeniz": dagen/10-08-donderdag.md
+    - "vr 9 okt · Ölüdeniz": dagen/10-09-vrijdag.md
+    - "za 10 okt · Ölüdeniz": dagen/10-10-zaterdag.md
+    - "zo 11 okt · Kaş": dagen/10-11-zondag.md
+    - "ma 12 okt · Antalya": dagen/10-12-maandag.md
+    - "di 13 okt · terugreis": dagen/10-13-dinsdag.md
+  - Verblijven: overzicht-verblijven.md
   - Vluchten: vluchten.md
-  - Overzicht verblijven: overzicht-verblijven.md
   - Huurauto: huurauto.md
   - Restaurants: restaurants.md
-  - Voorstel hotels: voorstel-hotels.md
+  - Hotels: voorstel-hotels.md
   - Kaart: kaart.html
-  - Planning:
-    - Maandag 28 september: dagen/09-28-maandag.md
-    - Dinsdag 29 september: dagen/09-29-dinsdag.md
-    - Woensdag 30 september: dagen/09-30-woensdag.md
-    - Donderdag 1 oktober: dagen/10-01-donderdag.md
-    - Vrijdag 2 oktober: dagen/10-02-vrijdag.md
-    - Zaterdag 3 oktober: dagen/10-03-zaterdag.md
-    - Zondag 4 oktober: dagen/10-04-zondag.md
-    - Maandag 5 oktober: dagen/10-05-maandag.md
-    - Dinsdag 6 oktober: dagen/10-06-dinsdag.md
-    - Woensdag 7 oktober: dagen/10-07-woensdag.md
-    - Donderdag 8 oktober: dagen/10-08-donderdag.md
-    - Vrijdag 9 oktober: dagen/10-09-vrijdag.md
-    - Zaterdag 10 oktober: dagen/10-10-zaterdag.md
-    - Zondag 11 oktober: dagen/10-11-zondag.md
-    - Maandag 12 oktober: dagen/10-12-maandag.md
-    - Dinsdag 13 oktober: dagen/10-13-dinsdag.md
 
 # ------------------------------------------------------------
 # 8. Extra Configuration

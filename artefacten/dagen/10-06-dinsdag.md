@@ -1,8 +1,15 @@
-# 10-06 dinsdag
+<div class="trip-hero" markdown="1">
+<span class="trip-eyebrow">Dag 9 van 16</span>
 
-**Overnachten:** Pamukkale - hotel nog te boeken (aanbevolen: The Cotton House)
+# Dinsdag 6 oktober
 
-Dag 9 van 16, de zwaarste rijdag van de reis: Konya → Pamukkale, ca. 4,5 tot 5 uur rijden.
+<p class="trip-lead">De zwaarste rijdag van de reis: Konya → Pamukkale, ca. 4,5 tot 5 uur rijden.</p>
+
+<dl class="trip-facts">
+  <div><dt>Overnachten</dt><dd>Pamukkale · <a href="../../overzicht-verblijven/">Venus Suite Hotel</a></dd></div>
+  <div><dt>Onderweg</dt><dd>± 4 u 30 – 5 u rijden</dd></div>
+</dl>
+</div>
 
 ## Bezienswaardigheden
 

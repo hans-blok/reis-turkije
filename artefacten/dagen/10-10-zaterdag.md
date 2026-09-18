@@ -1,8 +1,14 @@
-# 10-10 zaterdag
+<div class="trip-hero" markdown="1">
+<span class="trip-eyebrow">Dag 13 van 16</span>
 
-**Overnachten:** Fethiye - hotel nog te boeken
+# Zaterdag 10 oktober
 
-Dag 13 van 16: parapente boven Ölüdeniz, hét hoogtepunt van deze fase van de reis.
+<p class="trip-lead">Dag 13 van 16: parapente boven Ölüdeniz, hét hoogtepunt van deze fase van de reis.</p>
+
+<dl class="trip-facts">
+  <div><dt>Overnachten</dt><dd>Ölüdeniz · <a href="../../overzicht-verblijven/">Ölüdeniz Loft - Adults Only</a></dd></div>
+</dl>
+</div>
 
 ## Bezienswaardigheden
 

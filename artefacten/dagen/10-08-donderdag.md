@@ -1,8 +1,15 @@
-# 10-08 donderdag
+<div class="trip-hero" markdown="1">
+<span class="trip-eyebrow">Dag 11 van 16</span>
 
-**Overnachten:** Fethiye - hotel nog te boeken
+# Donderdag 8 oktober
 
-Dag 11 van 16: rustige ochtend in Pamukkale, 's middags doorrijden naar Fethiye (ca. 3,5 uur).
+<p class="trip-lead">Dag 11 van 16: rustige ochtend in Pamukkale, 's middags doorrijden naar Fethiye (ca. 3,5 uur).</p>
+
+<dl class="trip-facts">
+  <div><dt>Overnachten</dt><dd>Ölüdeniz · <a href="../../overzicht-verblijven/">Ölüdeniz Loft - Adults Only</a></dd></div>
+  <div><dt>Onderweg</dt><dd>± 3 u 30 rijden</dd></div>
+</dl>
+</div>
 
 ## Bezienswaardigheden
 
@@ -11,4 +18,4 @@ Dag 11 van 16: rustige ochtend in Pamukkale, 's middags doorrijden naar Fethiye 
 
 ## Praktisch
 
-- Hotelkeuze in Fethiye/Ölüdeniz nog open: zie [voorstel-hotels.md](../voorstel-hotels.md).
+- Achtergrond bij de hotelkeuze in Fethiye/Ölüdeniz: zie de [hotelvoorstellen](../voorstel-hotels.md).

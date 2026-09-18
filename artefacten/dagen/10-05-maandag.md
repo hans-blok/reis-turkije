@@ -1,8 +1,15 @@
-# 10-05 maandag
+<div class="trip-hero" markdown="1">
+<span class="trip-eyebrow">Dag 8 van 16</span>
 
-**Overnachten:** Konya - Sırçalı Hotel
+# Maandag 5 oktober
 
-Dag 8 van 16. Rustige ochtend in Göreme, vertrek vóór 10:00 richting Konya (ca. 3,5 uur rijden), inchecken bij Sırçalı Hotel ([overzicht-verblijven.md](../overzicht-verblijven.md)).
+<p class="trip-lead">Rustige ochtend in Göreme, vertrek vóór 10:00 richting Konya (ca. 3,5 uur rijden), inchecken bij Sırçalı Hotel (<a href="../../overzicht-verblijven/">verblijven</a>).</p>
+
+<dl class="trip-facts">
+  <div><dt>Overnachten</dt><dd>Konya · <a href="../../overzicht-verblijven/">Sırçalı Hotel</a></dd></div>
+  <div><dt>Onderweg</dt><dd>± 3 u 30 rijden</dd></div>
+</dl>
+</div>
 
 ## Bezienswaardigheden
 

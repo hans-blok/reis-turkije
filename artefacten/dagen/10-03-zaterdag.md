@@ -1,8 +1,14 @@
-# 10-03 zaterdag
+<div class="trip-hero" markdown="1">
+<span class="trip-eyebrow">Dag 6 van 16</span>
 
-**Overnachten:** Göreme - Mosaic Cave Hotel
+# Zaterdag 3 oktober
 
-Dag 6 van 16: het hoogtepunt van Cappadocië.
+<p class="trip-lead">Dag 6 van 16: het hoogtepunt van Cappadocië.</p>
+
+<dl class="trip-facts">
+  <div><dt>Overnachten</dt><dd>Göreme · <a href="../../overzicht-verblijven/">Mosaic Cave Hotel</a></dd></div>
+</dl>
+</div>
 
 ## Bezienswaardigheden
 

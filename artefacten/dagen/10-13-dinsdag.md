@@ -1,8 +1,15 @@
-# 10-13 dinsdag
+<div class="trip-hero" markdown="1">
+<span class="trip-eyebrow">Dag 16 van 16</span>
 
-**Overnachten:** -
+# Dinsdag 13 oktober
 
-Dag 16 van 16, laatste dag. Rustige ochtend in Antalya, met tijd voor Kaleiçi. Auto inleveren op Antalya Airport, terugvlucht om 13:05 naar Amsterdam, aankomst 16:35 ([vluchten.md](../vluchten.md)).
+<p class="trip-lead">Laatste dag. Rustige ochtend in Antalya, met tijd voor Kaleiçi. Auto inleveren op Antalya Airport, terugvlucht om 13:05 naar Amsterdam, aankomst 16:35 (<a href="../../vluchten/">vluchten</a>).</p>
+
+<dl class="trip-facts">
+  <div><dt>Vertrek</dt><dd>vanuit Antalya, geen overnachting</dd></div>
+  <div><dt>Onderweg</dt><dd>Auto inleveren + vlucht AYT–AMS · 4 u 30</dd></div>
+</dl>
+</div>
 
 ## Bezienswaardigheden
 

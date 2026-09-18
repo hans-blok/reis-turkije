@@ -1,19 +1,101 @@
-# Voorstel hotels
+<div class="trip-hero" markdown="1">
+<span class="trip-eyebrow">Hotels</span>
+
+# Onderzochte hotels
+
+<p class="trip-lead">Het onderzoek naar hotels voor de plaatsen waar nog niets vaststond, met prijsindicatie, geverifieerde eisen en een voorkeurskeuze per plaats. De uiteindelijk geboekte verblijven staan bij <a href="../overzicht-verblijven/">verblijven</a>.</p>
+</div>
 
 ## Overzicht
 
-🔗 = link · 🔗B = Booking.com · 🔗T = Tripadvisor
+<div class="mm-grid">
 
-| Plaats | Hotel | Prijsindicatie / nacht | Links |
-|---|---|---|---|
-| Pamukkale | The Cotton House ⭐ voorkeur | €80–100 (niet geverifieerd voor exacte data) | [🔗B](https://www.booking.com/hotel/tr/the-cotten-house.en-gb.html) · [🔗T](https://www.tripadvisor.com/Hotel_Review-g297992-d20850687-Reviews-The_Cotton_House-Pamukkale.html) · [🔗 Trip.com](https://www.trip.com/hotels/pamukkale-hotel-detail-52121483/the-cotton-house-hotel/) · [🔗 Officiële site](https://thecottonhousepamukkale.tr-hotels.com/en/) |
-| Pamukkale | Bellamaritimo Hotel | €40–47 | [🔗B](https://www.booking.com/hotel/tr/maritim.html) · [🔗T](https://www.tripadvisor.com/Hotel_Review-g297992-d1768828-Reviews-Bellamaritimo_Hotel-Pamukkale.html) · [🔗 Trip.com](https://www.trip.com/hotels/pamukkale-hotel-detail-2547291/bellamaritimo-hotel/) |
-| Fethiye · Ölüdeniz | Tonoz Beach Hotel ⭐ voorkeur | €78–99 | [🔗B](https://www.booking.com/hotel/tr/tonoz-beach.en-gb.html) · [🔗T](https://www.tripadvisor.com/Hotel_Review-g312737-d1144988-Reviews-Tonoz_Beach_Hotel-Oludeniz_Fethiye_Mugla_Province_Turkish_Aegean_Coast.html) · [🔗 Officiële site](https://tonozbeach.com/rooms/) |
-| Fethiye · Ölüdeniz | Belcekiz Beach Club | vermoedelijk > €110 (niet aangetoond onder budget) | [🔗B](https://www.booking.com/hotel/tr/belcekiz-beach.html) · [🔗T](https://www.tripadvisor.com/Hotel_Review-g312737-d311341-Reviews-or1090-Belcekiz_Beach_Club-Oludeniz_Fethiye_Mugla_Province_Turkish_Aegean_Coast.html) · [🔗 Officiële site](http://belcekiz.com/en/rooms/) |
-| Kaş | Melisa Boutique Hotel & Spa ⭐ voorkeur | vermoedelijk < €110 (niet geverifieerd voor exacte data) | [🔗B](https://www.booking.com/hotel/tr/melisa-boutique.html) · [🔗T](https://www.tripadvisor.com/Hotel_Review-g297965-d23166754-Reviews-Melisa_Boutique_Hotel-Kas_Turkish_Mediterranean_Coast.html) · [🔗 Hotel.info](https://www.hotel.info/en/hotel/1186244) |
-| Kaş | Mandalina Luxury Suites | vanaf ± €155 (boven budget) | [🔗T](https://www.tripadvisor.com/Hotel_Review-g297965-d12223264-Reviews-Mandalina_Luxury_Boutique_Otel-Kas_Turkish_Mediterranean_Coast.html) · [🔗 HalalBooking](https://halalbooking.com/en/mandalina-luxury-suites/p/8615) |
-| Antalya | Sofa Hotels Kaleiçi ⭐ voorkeur | vanaf ± €65 (niet geverifieerd voor exacte data) | [🔗B](https://www.booking.com/hotel/tr/sofa-hotels-kaleici-antalya.html) · [🔗T](https://www.tripadvisor.com/Hotel_Review-g297962-d25904458-Reviews-Sofa_Hotels_Kaleici-Antalya_Turkish_Mediterranean_Coast.html) |
-| Antalya | Kaleiçi Hotel | €35–95 (niet geverifieerd voor exacte data) | [🔗T](https://www.tripadvisor.com/Hotel_Review-g297962-d637796-Reviews-Kaleici_Hotel-Antalya_Turkish_Mediterranean_Coast.html) |
+  <div class="mm-place">
+    <div class="mm-place__name">The Cotton House</div>
+    <div class="mm-place__sub">Pamukkale <span class="mm-badge">voorkeur</span></div>
+    <p class="mm-place__note">€80–100 per nacht — niet geverifieerd voor de exacte data.</p>
+    <div class="mm-place__links">
+      <a class="mm-link" href="https://www.booking.com/hotel/tr/the-cotten-house.en-gb.html">Booking.com</a>
+      <a class="mm-link" href="https://www.tripadvisor.com/Hotel_Review-g297992-d20850687-Reviews-The_Cotton_House-Pamukkale.html">Tripadvisor</a>
+      <a class="mm-link" href="https://www.trip.com/hotels/pamukkale-hotel-detail-52121483/the-cotton-house-hotel/">Trip.com</a>
+      <a class="mm-link" href="https://thecottonhousepamukkale.tr-hotels.com/en/">Offici&euml;le site</a>
+    </div>
+  </div>
+
+  <div class="mm-place">
+    <div class="mm-place__name">Bellamaritimo Hotel</div>
+    <div class="mm-place__sub">Pamukkale</div>
+    <p class="mm-place__note">€40–47 per nacht.</p>
+    <div class="mm-place__links">
+      <a class="mm-link" href="https://www.booking.com/hotel/tr/maritim.html">Booking.com</a>
+      <a class="mm-link" href="https://www.tripadvisor.com/Hotel_Review-g297992-d1768828-Reviews-Bellamaritimo_Hotel-Pamukkale.html">Tripadvisor</a>
+      <a class="mm-link" href="https://www.trip.com/hotels/pamukkale-hotel-detail-2547291/bellamaritimo-hotel/">Trip.com</a>
+    </div>
+  </div>
+
+  <div class="mm-place">
+    <div class="mm-place__name">Tonoz Beach Hotel</div>
+    <div class="mm-place__sub">Fethiye · Ölüdeniz <span class="mm-badge">voorkeur</span></div>
+    <p class="mm-place__note">€78–99 per nacht.</p>
+    <div class="mm-place__links">
+      <a class="mm-link" href="https://www.booking.com/hotel/tr/tonoz-beach.en-gb.html">Booking.com</a>
+      <a class="mm-link" href="https://www.tripadvisor.com/Hotel_Review-g312737-d1144988-Reviews-Tonoz_Beach_Hotel-Oludeniz_Fethiye_Mugla_Province_Turkish_Aegean_Coast.html">Tripadvisor</a>
+      <a class="mm-link" href="https://tonozbeach.com/rooms/">Offici&euml;le site</a>
+    </div>
+  </div>
+
+  <div class="mm-place">
+    <div class="mm-place__name">Belcekiz Beach Club</div>
+    <div class="mm-place__sub">Fethiye · Ölüdeniz</div>
+    <p class="mm-place__note">Vermoedelijk meer dan €110 per nacht — niet aangetoond onder budget.</p>
+    <div class="mm-place__links">
+      <a class="mm-link" href="https://www.booking.com/hotel/tr/belcekiz-beach.html">Booking.com</a>
+      <a class="mm-link" href="https://www.tripadvisor.com/Hotel_Review-g312737-d311341-Reviews-or1090-Belcekiz_Beach_Club-Oludeniz_Fethiye_Mugla_Province_Turkish_Aegean_Coast.html">Tripadvisor</a>
+      <a class="mm-link" href="http://belcekiz.com/en/rooms/">Offici&euml;le site</a>
+    </div>
+  </div>
+
+  <div class="mm-place">
+    <div class="mm-place__name">Melisa Boutique Hotel &amp; Spa</div>
+    <div class="mm-place__sub">Kaş <span class="mm-badge">voorkeur</span></div>
+    <p class="mm-place__note">Vermoedelijk minder dan €110 per nacht — niet geverifieerd voor de exacte data.</p>
+    <div class="mm-place__links">
+      <a class="mm-link" href="https://www.booking.com/hotel/tr/melisa-boutique.html">Booking.com</a>
+      <a class="mm-link" href="https://www.tripadvisor.com/Hotel_Review-g297965-d23166754-Reviews-Melisa_Boutique_Hotel-Kas_Turkish_Mediterranean_Coast.html">Tripadvisor</a>
+      <a class="mm-link" href="https://www.hotel.info/en/hotel/1186244">Hotel.info</a>
+    </div>
+  </div>
+
+  <div class="mm-place">
+    <div class="mm-place__name">Mandalina Luxury Suites</div>
+    <div class="mm-place__sub">Kaş</div>
+    <p class="mm-place__note">Vanaf ± €155 per nacht — boven budget.</p>
+    <div class="mm-place__links">
+      <a class="mm-link" href="https://www.tripadvisor.com/Hotel_Review-g297965-d12223264-Reviews-Mandalina_Luxury_Boutique_Otel-Kas_Turkish_Mediterranean_Coast.html">Tripadvisor</a>
+      <a class="mm-link" href="https://halalbooking.com/en/mandalina-luxury-suites/p/8615">HalalBooking</a>
+    </div>
+  </div>
+
+  <div class="mm-place">
+    <div class="mm-place__name">Sofa Hotels Kaleiçi</div>
+    <div class="mm-place__sub">Antalya <span class="mm-badge">voorkeur</span></div>
+    <p class="mm-place__note">Vanaf ± €65 per nacht — niet geverifieerd voor de exacte data.</p>
+    <div class="mm-place__links">
+      <a class="mm-link" href="https://www.booking.com/hotel/tr/sofa-hotels-kaleici-antalya.html">Booking.com</a>
+      <a class="mm-link" href="https://www.tripadvisor.com/Hotel_Review-g297962-d25904458-Reviews-Sofa_Hotels_Kaleici-Antalya_Turkish_Mediterranean_Coast.html">Tripadvisor</a>
+    </div>
+  </div>
+
+  <div class="mm-place">
+    <div class="mm-place__name">Kaleiçi Hotel</div>
+    <div class="mm-place__sub">Antalya</div>
+    <p class="mm-place__note">€35–95 per nacht — niet geverifieerd voor de exacte data.</p>
+    <div class="mm-place__links">
+      <a class="mm-link" href="https://www.tripadvisor.com/Hotel_Review-g297962-d637796-Reviews-Kaleici_Hotel-Antalya_Turkish_Mediterranean_Coast.html">Tripadvisor</a>
+    </div>
+  </div>
+
+</div>
 
 ## Samenvatting
 

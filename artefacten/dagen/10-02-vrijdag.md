@@ -1,8 +1,15 @@
-# 10-02 vrijdag
+<div class="trip-hero" markdown="1">
+<span class="trip-eyebrow">Dag 5 van 16</span>
 
-**Overnachten:** Göreme - Mosaic Cave Hotel
+# Vrijdag 2 oktober
 
-Dag 5 van 16. Vlucht van Istanboel naar Kayseri ([vluchten.md](../vluchten.md)), auto ophalen op Kayseri Erkilet (ca. 1 uur rijden naar Göreme), en 's middags Göreme verkennen ([overzicht-verblijven.md](../overzicht-verblijven.md)).
+<p class="trip-lead">Vlucht van Istanboel naar Kayseri (<a href="../../vluchten/">vluchten</a>), auto ophalen op Kayseri Erkilet (ca. 1 uur rijden naar Göreme), en 's middags Göreme verkennen (<a href="../../overzicht-verblijven/">verblijven</a>).</p>
+
+<dl class="trip-facts">
+  <div><dt>Overnachten</dt><dd>Göreme · <a href="../../overzicht-verblijven/">Mosaic Cave Hotel</a></dd></div>
+  <div><dt>Onderweg</dt><dd>Vlucht IST–ASR + ± 1 u rijden</dd></div>
+</dl>
+</div>
 
 ## Bezienswaardigheden
 

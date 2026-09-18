@@ -1,8 +1,14 @@
-# 10-01 donderdag
+<div class="trip-hero" markdown="1">
+<span class="trip-eyebrow">Dag 4 van 16</span>
 
-**Overnachten:** Istanboel - Alilass Hotel
+# Donderdag 1 oktober
 
-Dag 4 van 16: extra dag in Istanboel, wat rustiger en lokaler.
+<p class="trip-lead">Dag 4 van 16: extra dag in Istanboel, wat rustiger en lokaler.</p>
+
+<dl class="trip-facts">
+  <div><dt>Overnachten</dt><dd>Istanboel · <a href="../../overzicht-verblijven/">Alilass Hotel</a></dd></div>
+</dl>
+</div>
 
 ## Bezienswaardigheden
 

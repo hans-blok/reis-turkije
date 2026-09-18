@@ -1,8 +1,14 @@
-# 09-29 dinsdag
+<div class="trip-hero" markdown="1">
+<span class="trip-eyebrow">Dag 2 van 16</span>
 
-**Overnachten:** Istanboel - Alilass Hotel
+# Dinsdag 29 september
 
-Dag 2 van 16: de grote klassiekers van Sultanahmet, in één volle dag.
+<p class="trip-lead">Dag 2 van 16: de grote klassiekers van Sultanahmet, in één volle dag.</p>
+
+<dl class="trip-facts">
+  <div><dt>Overnachten</dt><dd>Istanboel · <a href="../../overzicht-verblijven/">Alilass Hotel</a></dd></div>
+</dl>
+</div>
 
 ## Bezienswaardigheden
 

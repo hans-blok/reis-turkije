@@ -1,8 +1,14 @@
-# 10-07 woensdag
+<div class="trip-hero" markdown="1">
+<span class="trip-eyebrow">Dag 10 van 16</span>
 
-**Overnachten:** Pamukkale - hotel nog te boeken (aanbevolen: The Cotton House)
+# Woensdag 7 oktober
 
-Dag 10 van 16: de travertijnen en de antieke stad Hierapolis.
+<p class="trip-lead">Dag 10 van 16: de travertijnen en de antieke stad Hierapolis.</p>
+
+<dl class="trip-facts">
+  <div><dt>Overnachten</dt><dd>Pamukkale · <a href="../../overzicht-verblijven/">Venus Suite Hotel</a></dd></div>
+</dl>
+</div>
 
 ## Bezienswaardigheden
 

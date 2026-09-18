@@ -6,30 +6,33 @@
 <title>Turkije Routekaart</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=Libre+Franklin:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
   :root{
-    --bg: #1b1712;
-    --panel: #241f18;
-    --panel-2: #2a251c;
-    --border: #40372a;
-    --ink: #f1e8d6;
-    --ink-dim: #b9ac8c;
-    --ink-faint: #8b7f66;
-    --sea: #163f3e;
-    --sea-edge: #2e6864;
-    --land: #ddcda2;
-    --land-edge: #9c8455;
-    --land-shadow: #c9b688;
-    --gold: #cb9c47;
-    --gold-soft: rgba(203,156,71,0.35);
-    --teal: #3c8a80;
-    --teal-ink: #0e2321;
-    --rust: #b1503a;
-    --rust-soft: rgba(177,80,58,0.14);
-    --font-display: "Fraunces", "Iowan Old Style", serif;
-    --font-body: "Libre Franklin", "Segoe UI", sans-serif;
-    --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+    --bg: #f7f4ee;
+    --panel: #ffffff;
+    --panel-2: #fbf9f5;
+    --border: #e4ded4;
+    --border-strong: #d6cec1;
+    --ink: #292724;
+    --ink-dim: #706b63;
+    --ink-faint: #756f65;
+    --sea: #dde8e5;
+    --sea-edge: #bcd2cd;
+    --land: #ecdcc1;
+    --land-edge: #c3a97c;
+    --land-shadow: #dbc7a2;
+    --gold: #b7653b;
+    --gold-soft: rgba(183, 101, 59, 0.1);
+    --teal: #315c58;
+    --teal-ink: #1d3b38;
+    --stop-ink: #ffffff;
+    --rust: #9a5230;
+    --rust-soft: rgba(183, 101, 59, 0.08);
+    --radius: 10px;
+    --font-display: "Inter", "Segoe UI", system-ui, sans-serif;
+    --font-body: "Inter", "Segoe UI", system-ui, sans-serif;
+    --font-mono: "Inter", "Segoe UI", system-ui, sans-serif;
   }
 
   *{ box-sizing: border-box; }
@@ -37,9 +40,7 @@
   html, body{ margin: 0; padding: 0; }
 
   body{
-    background:
-      radial-gradient(ellipse at 20% -10%, rgba(203,156,71,0.08), transparent 55%),
-      var(--bg);
+    background: var(--bg);
     color: var(--ink);
     font-family: var(--font-body);
     line-height: 1.5;
@@ -76,16 +77,18 @@
   }
 
   .eyebrow{
-    font-family: var(--font-mono);
+    font-family: var(--font-body);
+    font-weight: 600;
     font-size: 0.72rem;
-    letter-spacing: 0.22em;
+    letter-spacing: 0.14em;
     text-transform: uppercase;
     color: var(--gold);
   }
 
   h1{
     font-family: var(--font-display);
-    font-weight: 500;
+    font-weight: 600;
+    letter-spacing: -0.02em;
     font-size: clamp(2.1rem, 4.4vw, 3.3rem);
     line-height: 1.06;
     margin: 0;
@@ -106,8 +109,9 @@
 
   h2{
     font-family: var(--font-display);
-    font-weight: 500;
-    font-size: 1.5rem;
+    font-weight: 600;
+    letter-spacing: -0.015em;
+    font-size: 1.25rem;
     margin: 0 0 0.25rem;
     color: var(--ink);
   }
@@ -124,16 +128,17 @@
   .map-card{
     background: var(--panel);
     border: 1px solid var(--border);
-    border-radius: 4px;
+    border-radius: var(--radius);
     padding: 1.6rem 1.6rem 1.3rem;
-    box-shadow: 0 24px 48px -28px rgba(0,0,0,0.6);
+    box-shadow: 0 1px 2px rgba(41,39,36,0.04);
   }
 
   figure{ margin: 0; }
 
   .map-frame{
     background: var(--sea);
-    border-radius: 3px;
+    border: 1px solid var(--sea-edge);
+    border-radius: var(--radius);
     overflow: hidden;
     position: relative;
   }
@@ -158,7 +163,8 @@
   }
 
   .map-sublabel{
-    font-family: var(--font-mono);
+    font-family: var(--font-body);
+    font-weight: 500;
     fill: var(--teal-ink);
   }
 
@@ -199,8 +205,9 @@
   .panel{
     background: var(--panel);
     border: 1px solid var(--border);
-    border-radius: 4px;
+    border-radius: var(--radius);
     padding: 1.5rem 1.6rem;
+    box-shadow: 0 1px 2px rgba(41,39,36,0.04);
   }
 
   /* Itinerary list */
@@ -226,9 +233,9 @@
     height: 1.9rem;
     border-radius: 50%;
     background: var(--teal);
-    color: var(--teal-ink);
+    color: var(--stop-ink);
     font-family: var(--font-mono);
-    font-weight: 500;
+    font-weight: 600;
     font-size: 0.85rem;
     display: flex;
     align-items: center;
@@ -238,14 +245,14 @@
 
   .stop-num.transit{
     background: transparent;
-    border: 1.5px dashed var(--ink-faint);
+    border: 1.5px dashed var(--border-strong);
     color: var(--ink-faint);
     font-size: 0.95rem;
   }
 
   .stop-name{
     font-family: var(--font-display);
-    font-weight: 500;
+    font-weight: 600;
     font-size: 1.08rem;
     color: var(--ink);
   }
@@ -278,14 +285,14 @@
     gap: 0.7rem;
     align-items: baseline;
     padding: 0.7rem 0.85rem;
-    background: var(--rust-soft);
-    border: 1px solid rgba(177,80,58,0.3);
-    border-radius: 3px;
+    background: var(--panel-2);
+    border: 1px solid var(--border);
+    border-radius: 6px;
   }
 
   .afield-item .name{
     font-family: var(--font-display);
-    font-weight: 500;
+    font-weight: 600;
     color: var(--ink);
     font-size: 1rem;
   }
@@ -307,13 +314,13 @@
     margin-top: 1.3rem;
     padding: 0.85rem 1rem;
     background: var(--gold-soft);
-    border: 1px solid var(--gold);
-    border-radius: 3px;
+    border: 1px solid rgba(183,101,59,0.35);
+    border-radius: 6px;
     font-size: 0.88rem;
     color: var(--ink);
   }
 
-  .open-note strong{ color: var(--gold); }
+  .open-note strong{ color: var(--rust); }
 
   footer{
     color: var(--ink-faint);
@@ -341,7 +348,7 @@
     <div class="map-card">
       <figure>
         <div class="map-frame">
-          <svg viewBox="-10 -10 412 192" role="img" aria-label="Kaart van Turkije met de reisroute van Istanboel via Kayseri, Göreme, Konya en Pamukkale naar Fethiye/Ölüdeniz, Kaş en Antalya, met Ihlara-vallei en Kekova als optionele extra's.">
+          <svg viewBox="-10 -20 412 212" role="img" aria-label="Kaart van Turkije met de reisroute van Istanboel via Kayseri, Göreme, Konya en Pamukkale naar Fethiye/Ölüdeniz, Kaş en Antalya, met Ihlara-vallei en Kekova als optionele extra's.">
             <defs>
               <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
                 <path d="M0,0 L10,5 L0,10 Z" fill="var(--gold)"></path>
@@ -359,7 +366,7 @@
 
             <!-- flight off-canvas: Antalya -> Amsterdam -->
             <line x1="105.34" y1="143.08" x2="55" y2="182" stroke="var(--gold)" stroke-width="1.2" stroke-dasharray="1 3.2" marker-end="url(#arrow)"></line>
-            <text x="14" y="180" class="map-sublabel" font-size="7">Amsterdam · 13 okt</text>
+            <text x="14" y="189" class="map-sublabel" font-size="7">Amsterdam · 13 okt</text>
 
             <!-- route: Istanbul -> Kayseri (flight, dashed) -->
             <line x1="70.28" y1="36.19" x2="201.71" y2="95.67" stroke="var(--gold)" stroke-width="1.4" stroke-dasharray="1 3.5" stroke-linecap="round"></line>
@@ -390,34 +397,34 @@
             <text x="201.71" y="88.5" text-anchor="middle" class="map-sublabel" font-size="6.5" fill="var(--ink-faint)">Kayseri (vlucht)</text>
 
             <!-- numbered stops -->
-            <g font-family="IBM Plex Mono, monospace" font-size="7.5" font-weight="500">
+            <g font-family="Inter, sans-serif" font-size="7.5" font-weight="500">
               <circle cx="70.28" cy="36.19" r="7" fill="var(--teal)" stroke="var(--land)" stroke-width="1.4"></circle>
-              <text x="70.28" y="38.7" text-anchor="middle" fill="var(--teal-ink)">1</text>
-              <text x="70.28" y="52" text-anchor="middle" class="map-label" font-size="8" fill="var(--land)" font-family="Fraunces, serif">Istanboel</text>
+              <text x="70.28" y="38.7" text-anchor="middle" fill="var(--stop-ink)">1</text>
+              <text x="70.28" y="52" text-anchor="middle" class="map-label" font-size="8" font-family="Inter, sans-serif">Istanboel</text>
 
               <circle cx="188.49" cy="97.68" r="7" fill="var(--teal)" stroke="var(--land)" stroke-width="1.4"></circle>
-              <text x="188.49" y="100.2" text-anchor="middle" fill="var(--teal-ink)">2</text>
-              <text x="188.49" y="112" text-anchor="middle" class="map-label" font-size="8" fill="var(--land)" font-family="Fraunces, serif">Göreme</text>
+              <text x="188.49" y="100.2" text-anchor="middle" fill="var(--stop-ink)">2</text>
+              <text x="188.49" y="112" text-anchor="middle" class="map-label" font-size="8" font-family="Inter, sans-serif">Göreme</text>
 
               <circle cx="141.3" cy="117.66" r="7" fill="var(--teal)" stroke="var(--land)" stroke-width="1.4"></circle>
-              <text x="141.3" y="120.2" text-anchor="middle" fill="var(--teal-ink)">3</text>
-              <text x="141.3" y="106" text-anchor="middle" class="map-label" font-size="8" fill="var(--land)" font-family="Fraunces, serif">Konya</text>
+              <text x="141.3" y="120.2" text-anchor="middle" fill="var(--stop-ink)">3</text>
+              <text x="141.3" y="106" text-anchor="middle" class="map-label" font-size="8" font-family="Inter, sans-serif">Konya</text>
 
               <circle cx="73.17" cy="116.47" r="7" fill="var(--teal)" stroke="var(--land)" stroke-width="1.4"></circle>
-              <text x="73.17" y="119" text-anchor="middle" fill="var(--teal-ink)">4</text>
-              <text x="73.17" y="107" text-anchor="middle" class="map-label" font-size="8" fill="var(--land)" font-family="Fraunces, serif">Pamukkale</text>
+              <text x="73.17" y="119" text-anchor="middle" fill="var(--stop-ink)">4</text>
+              <text x="73.17" y="107" text-anchor="middle" class="map-label" font-size="8" font-family="Inter, sans-serif">Pamukkale</text>
 
               <circle cx="73.07" cy="152.11" r="7" fill="var(--teal)" stroke="var(--land)" stroke-width="1.4"></circle>
-              <text x="73.07" y="154.6" text-anchor="middle" fill="var(--teal-ink)">5</text>
-              <text x="73.07" y="166" text-anchor="middle" class="map-label" font-size="8" fill="var(--land)" font-family="Fraunces, serif">Fethiye · Ölüdeniz</text>
+              <text x="73.07" y="154.6" text-anchor="middle" fill="var(--stop-ink)">5</text>
+              <text x="66" y="172" text-anchor="end" class="map-label" font-size="8" font-family="Inter, sans-serif">Fethiye · Ölüdeniz</text>
 
               <circle cx="83.64" cy="161.15" r="7" fill="var(--teal)" stroke="var(--land)" stroke-width="1.4"></circle>
-              <text x="83.64" y="163.65" text-anchor="middle" fill="var(--teal-ink)">6</text>
-              <text x="83.64" y="149" text-anchor="middle" class="map-label" font-size="8" fill="var(--land)" font-family="Fraunces, serif">Kaş</text>
+              <text x="83.64" y="163.65" text-anchor="middle" fill="var(--stop-ink)">6</text>
+              <text x="83.64" y="149" text-anchor="middle" class="map-label" font-size="8" font-family="Inter, sans-serif">Kaş</text>
 
               <circle cx="105.34" cy="143.08" r="7" fill="var(--teal)" stroke="var(--land)" stroke-width="1.4"></circle>
-              <text x="105.34" y="145.6" text-anchor="middle" fill="var(--teal-ink)">7</text>
-              <text x="115" y="133" text-anchor="middle" class="map-label" font-size="8" fill="var(--land)" font-family="Fraunces, serif">Antalya</text>
+              <text x="105.34" y="145.6" text-anchor="middle" fill="var(--stop-ink)">7</text>
+              <text x="115" y="133" text-anchor="middle" class="map-label" font-size="8" font-family="Inter, sans-serif">Antalya</text>
             </g>
           </svg>
         </div>
@@ -486,7 +493,7 @@
           <div class="stop-num">4</div>
           <div>
             <div class="stop-name">Pamukkale</div>
-            <div class="stop-meta">6 – 8 okt · hotel nog te boeken</div>
+            <div class="stop-meta">6 – 8 okt · Venus Suite Hotel</div>
             <div class="stop-note">± 4,5–5 uur rijden vanaf Konya, de zwaarste rijdag.</div>
           </div>
         </li>
@@ -494,21 +501,21 @@
           <div class="stop-num">5</div>
           <div>
             <div class="stop-name">Fethiye · Ölüdeniz</div>
-            <div class="stop-meta">8 – 11 okt · hotel nog te boeken</div>
+            <div class="stop-meta">8 – 11 okt · Ölüdeniz Loft - Adults Only</div>
           </div>
         </li>
         <li>
           <div class="stop-num">6</div>
           <div>
             <div class="stop-name">Kaş</div>
-            <div class="stop-meta">11 – 12 okt · hotel nog te boeken</div>
+            <div class="stop-meta">11 – 12 okt · Luff Suites</div>
           </div>
         </li>
         <li>
           <div class="stop-num">7</div>
           <div>
             <div class="stop-name">Antalya</div>
-            <div class="stop-meta">12 – 13 okt · hotel nog te boeken</div>
+            <div class="stop-meta">12 – 13 okt · Hotel Lykia Old Town Antalya</div>
             <div class="stop-note">Auto inleveren op de laatste ochtend, terugvlucht 13:05 naar Amsterdam.</div>
           </div>
         </li>
@@ -534,7 +541,7 @@
       </div>
 
       <div class="open-note">
-        <strong>Nog open:</strong> hotels in Fethiye/Ölüdeniz, Kaş en Antalya moeten nog geboekt worden — zie <a href="voorstel-hotels.html">het hotelvoorstel</a>.
+        <strong>Alles geboekt:</strong> alle zeven verblijven staan vast — zie <a href="overzicht-verblijven/">de verblijven</a>. De achtergrond bij de hotelkeuzes staat in <a href="voorstel-hotels/">de hotelvoorstellen</a>.
       </div>
     </div>
   </section>

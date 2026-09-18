@@ -1,8 +1,14 @@
-# 10-09 vrijdag
+<div class="trip-hero" markdown="1">
+<span class="trip-eyebrow">Dag 12 van 16</span>
 
-**Overnachten:** Fethiye - hotel nog te boeken
+# Vrijdag 9 oktober
 
-Dag 12 van 16: een rustige dag rond Ölüdeniz en Fethiye.
+<p class="trip-lead">Dag 12 van 16: een rustige dag rond Ölüdeniz en Fethiye.</p>
+
+<dl class="trip-facts">
+  <div><dt>Overnachten</dt><dd>Ölüdeniz · <a href="../../overzicht-verblijven/">Ölüdeniz Loft - Adults Only</a></dd></div>
+</dl>
+</div>
 
 ## Bezienswaardigheden
 
