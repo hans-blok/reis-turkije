@@ -53,7 +53,7 @@ theme:
 extra_css:
   # ?v= ophogen bij elke wijziging in custom.css: browsers halen het bestand
   # anders uit hun cache en tonen de oude opmaak bij nieuwe inhoud.
-  - assets/custom.css?v=4
+  - assets/custom.css?v=5
 
 extra_javascript: []
 

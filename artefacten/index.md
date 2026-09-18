@@ -7,9 +7,6 @@
 
 <dl class="trip-facts">
   <div><dt>Periode</dt><dd>28 sep – 13 okt 2026</dd></div>
-  <div><dt>Duur</dt><dd>16 dagen, 15 nachten</dd></div>
-  <div><dt>Bestemmingen</dt><dd>7 plaatsen</dd></div>
-  <div><dt>Verblijven</dt><dd>7 hotels, alle geboekt</dd></div>
 </dl>
 </div>
 
@@ -17,7 +14,7 @@
 
 <ol class="trip-timeline">
   <li>
-    <div class="trip-stop__date"><span class="trip-stop__day">28 sep</span><span class="trip-stop__weekday">maandag</span></div>
+    <a class="trip-stop__date" href="dagen/09-28-maandag/"><span class="trip-stop__day">28 sep</span><span class="trip-stop__weekday">maandag</span></a>
     <div class="trip-stop__body">
       <div class="trip-stop__place">Istanboel <span class="mm-badge">4 nachten</span></div>
       <div class="trip-stop__stay"><a href="overzicht-verblijven/#alilass-hotel">Alilass Hotel</a> · Sultanahmet</div>
@@ -25,7 +22,7 @@
     </div>
   </li>
   <li>
-    <div class="trip-stop__date"><span class="trip-stop__day">2 okt</span><span class="trip-stop__weekday">vrijdag</span></div>
+    <a class="trip-stop__date" href="dagen/10-02-vrijdag/"><span class="trip-stop__day">2 okt</span><span class="trip-stop__weekday">vrijdag</span></a>
     <div class="trip-stop__body">
       <div class="trip-stop__place">Göreme · Cappadocië <span class="mm-badge">3 nachten</span></div>
       <div class="trip-stop__stay"><a href="overzicht-verblijven/#mosaic-cave-hotel">Mosaic Cave Hotel</a></div>
@@ -33,7 +30,7 @@
     </div>
   </li>
   <li>
-    <div class="trip-stop__date"><span class="trip-stop__day">5 okt</span><span class="trip-stop__weekday">maandag</span></div>
+    <a class="trip-stop__date" href="dagen/10-05-maandag/"><span class="trip-stop__day">5 okt</span><span class="trip-stop__weekday">maandag</span></a>
     <div class="trip-stop__body">
       <div class="trip-stop__place">Konya <span class="mm-badge">1 nacht</span></div>
       <div class="trip-stop__stay"><a href="overzicht-verblijven/#sircali-hotel">Sırçalı Hotel</a></div>
@@ -41,7 +38,7 @@
     </div>
   </li>
   <li>
-    <div class="trip-stop__date"><span class="trip-stop__day">6 okt</span><span class="trip-stop__weekday">dinsdag</span></div>
+    <a class="trip-stop__date" href="dagen/10-06-dinsdag/"><span class="trip-stop__day">6 okt</span><span class="trip-stop__weekday">dinsdag</span></a>
     <div class="trip-stop__body">
       <div class="trip-stop__place">Pamukkale <span class="mm-badge">2 nachten</span></div>
       <div class="trip-stop__stay"><a href="overzicht-verblijven/#venus-suite-hotel">Venus Suite Hotel</a></div>
@@ -49,7 +46,7 @@
     </div>
   </li>
   <li>
-    <div class="trip-stop__date"><span class="trip-stop__day">8 okt</span><span class="trip-stop__weekday">donderdag</span></div>
+    <a class="trip-stop__date" href="dagen/10-08-donderdag/"><span class="trip-stop__day">8 okt</span><span class="trip-stop__weekday">donderdag</span></a>
     <div class="trip-stop__body">
       <div class="trip-stop__place">Ölüdeniz · Fethiye <span class="mm-badge">3 nachten</span></div>
       <div class="trip-stop__stay"><a href="overzicht-verblijven/#oludeniz-loft-adults-only">Ölüdeniz Loft - Adults Only</a></div>
@@ -57,7 +54,7 @@
     </div>
   </li>
   <li>
-    <div class="trip-stop__date"><span class="trip-stop__day">11 okt</span><span class="trip-stop__weekday">zondag</span></div>
+    <a class="trip-stop__date" href="dagen/10-11-zondag/"><span class="trip-stop__day">11 okt</span><span class="trip-stop__weekday">zondag</span></a>
     <div class="trip-stop__body">
       <div class="trip-stop__place">Kaş <span class="mm-badge">1 nacht</span></div>
       <div class="trip-stop__stay"><a href="overzicht-verblijven/#luff-suites">Luff Suites</a></div>
@@ -65,7 +62,7 @@
     </div>
   </li>
   <li>
-    <div class="trip-stop__date"><span class="trip-stop__day">12 okt</span><span class="trip-stop__weekday">maandag</span></div>
+    <a class="trip-stop__date" href="dagen/10-12-maandag/"><span class="trip-stop__day">12 okt</span><span class="trip-stop__weekday">maandag</span></a>
     <div class="trip-stop__body">
       <div class="trip-stop__place">Antalya <span class="mm-badge">1 nacht</span></div>
       <div class="trip-stop__stay"><a href="overzicht-verblijven/#hotel-lykia-old-town-antalya">Hotel Lykia Old Town Antalya</a></div>
@@ -73,7 +70,7 @@
     </div>
   </li>
   <li class="trip-stop--transit">
-    <div class="trip-stop__date"><span class="trip-stop__day">13 okt</span><span class="trip-stop__weekday">dinsdag</span></div>
+    <a class="trip-stop__date" href="dagen/10-13-dinsdag/"><span class="trip-stop__day">13 okt</span><span class="trip-stop__weekday">dinsdag</span></a>
     <div class="trip-stop__body">
       <div class="trip-stop__place">Terug naar Amsterdam</div>
       <div class="trip-stop__stay">Huurauto inleveren op Antalya Airport</div>

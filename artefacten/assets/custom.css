@@ -549,6 +549,31 @@ body,
   padding-top: 0.05rem;
 }
 
+/* De datum is op het overzicht een link naar de dagpagina; hij blijft er
+   uitzien als tekst en kleurt pas bij hover of toetsenbordfocus. */
+.md-typeset a.trip-stop__date {
+  display: block;
+  color: inherit;
+  border-bottom: none;
+  text-decoration: none;
+}
+
+.md-typeset a.trip-stop__date:hover .trip-stop__day,
+.md-typeset a.trip-stop__date:focus-visible .trip-stop__day {
+  color: var(--mm-terracotta-dark);
+}
+
+.md-typeset a.trip-stop__date:hover .trip-stop__weekday,
+.md-typeset a.trip-stop__date:focus-visible .trip-stop__weekday {
+  color: var(--mm-terracotta);
+}
+
+.md-typeset a.trip-stop__date:focus-visible {
+  outline: 2px solid var(--mm-terracotta);
+  outline-offset: 3px;
+  border-radius: var(--mm-radius-sm);
+}
+
 .trip-stop__day {
   display: block;
   font-size: 0.78rem;
