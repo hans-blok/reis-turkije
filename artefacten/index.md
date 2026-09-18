@@ -23,10 +23,10 @@ Route: Istanboel · Cappadocië · Konya · Pamukkale · Fethiye/Ölüdeniz · K
 | **[08 okt](dagen/10-08-donderdag.md)** | 🚗 | Ölüdeniz ✅ | rijden ± 3u30 | 07:03 | 18:39 | 25° / 16° |
 | **[09 okt](dagen/10-09-vrijdag.md)** | 🚶 | Ölüdeniz ✅ | - | 07:04 | 18:37 | 25° / 16° |
 | **[10 okt](dagen/10-10-zaterdag.md)** | 🪂 | Ölüdeniz ✅ | - | 07:05 | 18:36 | 24° / 16° |
-| **[11 okt](dagen/10-11-zondag.md)** | 🚗 | Kaş ⬜ | rijden ± 2u30 | 07:04 | 18:33 | 22° / 13° |
+| **[11 okt](dagen/10-11-zondag.md)** | 🚗 | Kaş ✅ | rijden ± 2u30 | 07:04 | 18:33 | 22° / 13° |
 | **[12 okt](dagen/10-12-maandag.md)** | 🚗 | Antalya ✅ | rijden ± 3u | 07:01 | 18:27 | 27° / 16° |
 | **[13 okt](dagen/10-13-dinsdag.md)** | ✈️ | - | auto inleveren + vlucht AYT–AMS, 4u30 | 07:02 | 18:25 | 27° / 16° |
 
 ✅ = hotel geboekt · ⬜ = hotel nog te boeken · zon op/onder berekend voor de locatie op die datum · temperatuur = klimaatgemiddelde overdag/'s nachts voor de tijd van het jaar (geen weersvoorspelling)
 
-Zie ook [vluchten](vluchten.md), het [overzicht van verblijven](overzicht-verblijven.md), [restaurants met vegetarisch/vegan aanbod](restaurants.md), de [routekaart](kaart.html) en het [voorstel voor nog te boeken hotels](voorstel-hotels.md).
+Zie ook [vluchten](vluchten.md), het [overzicht van verblijven](overzicht-verblijven.md), de [huurauto](huurauto.md), [restaurants met vegetarisch/vegan aanbod](restaurants.md), de [routekaart](kaart.html) en het [voorstel voor nog te boeken hotels](voorstel-hotels.md).

@@ -10,4 +10,4 @@ Dag 16 van 16, laatste dag. Rustige ochtend in Antalya, met tijd voor Kaleiçi. 
 
 ## Praktisch
 
-- Ruim tijd inplannen voor het inleveren van de huurauto vóór de vlucht van 13:05.
+- Auto inleveren om 10:30 op Antalya luchthaven, bij de Meet & Greet net buiten de arrivals-uitgang ([huurauto](../huurauto.md)) — ruim vóór de vlucht van 13:05.

@@ -7,6 +7,7 @@
 | Sırçalı Hotel | maandag 5 oktober 2026 | dinsdag 6 oktober 2026 | [sircalihotel.com](https://www.sircalihotel.com/en) |
 | Venus Suite Hotel | zaterdag 6 oktober 2026 | maandag 8 oktober 2026 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Venus+Suite+Hotel+Pamukkale) |
 | Ölüdeniz Loft - Adults Only | woensdag 8 oktober 2026 | zaterdag 11 oktober 2026 | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C3%96l%C3%BCdeniz+Loft+Adults+Only) |
+| Luff Suites | zondag 11 oktober 2026 | maandag 12 oktober 2026 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Luff+Suites+Kas) |
 | Hotel Lykia Old Town Antalya | maandag 12 oktober 2026 | dinsdag 13 oktober 2026 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hotel+Lykia+Old+Town+Antalya) |
 
 ## [Alilass Hotel](https://www.booking.com/hotel/tr/alilass.html)
@@ -159,6 +160,35 @@ Turkije
 - Inchecken: vanaf 14:00
 - Uitchecken: 12:00
 - Verblijf: 3 nachten
+
+### Opmerking
+
+Geboekt in de WhatsApp-berichten en toegevoegd aan het schema na bevestiging.
+
+## [Luff Suites](https://www.google.com/maps/search/?api=1&query=Luff+Suites+Kas)
+
+**Zondag 11 oktober 2026 – maandag 12 oktober 2026**
+
+### Reisdetails
+
+| Onderdeel | Informatie |
+|----------|------------|
+| Check-in | vanaf 15:00 |
+| Check-out | 11:00 |
+| Locatie | Bahçe Sokak 1, 07580 Kaş, Turkije |
+| Opmerking | Geboekt via WhatsApp; 1 nacht bevestigd |
+
+### Adres
+
+Bahçe Sokak 1  
+07580 Kaş  
+Turkije
+
+### Belangrijke informatie
+
+- Inchecken: vanaf 15:00
+- Uitchecken: 11:00
+- Verblijf: 1 nacht
 
 ### Opmerking
 

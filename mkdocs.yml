@@ -114,6 +114,7 @@ markdown_extensions:
 nav:
   - Vluchten: vluchten.md
   - Overzicht verblijven: overzicht-verblijven.md
+  - Huurauto: huurauto.md
   - Restaurants: restaurants.md
   - Voorstel hotels: voorstel-hotels.md
   - Kaart: kaart.html
