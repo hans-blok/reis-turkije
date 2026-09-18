@@ -1,7 +1,8 @@
-<div class="trip-hero" markdown="1">
-<span class="trip-eyebrow">Dag 14 van 16</span>
+<div class="trip-hero trip-hero--day" markdown="1">
 
 # Zondag 11 oktober
+
+<p class="day-meta">Dag 14 van 16 · Kaş</p>
 
 <p class="trip-lead">Doorreis naar Kaş via de kustweg (ca. 2,5 uur).</p>
 

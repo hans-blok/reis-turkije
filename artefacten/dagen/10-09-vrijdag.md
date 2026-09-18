@@ -1,9 +1,10 @@
-<div class="trip-hero" markdown="1">
-<span class="trip-eyebrow">Dag 12 van 16</span>
+<div class="trip-hero trip-hero--day" markdown="1">
 
 # Vrijdag 9 oktober
 
-<p class="trip-lead">Dag 12 van 16: een rustige dag rond Ölüdeniz en Fethiye.</p>
+<p class="day-meta">Dag 12 van 16 · Ölüdeniz</p>
+
+<p class="trip-lead">Een rustige dag rond Ölüdeniz en Fethiye.</p>
 
 <dl class="trip-facts">
   <div><dt>Overnachten</dt><dd>Ölüdeniz · <a href="../../overzicht-verblijven/">Ölüdeniz Loft - Adults Only</a></dd></div>

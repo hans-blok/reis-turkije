@@ -1,9 +1,10 @@
-<div class="trip-hero" markdown="1">
-<span class="trip-eyebrow">Dag 10 van 16</span>
+<div class="trip-hero trip-hero--day" markdown="1">
 
 # Woensdag 7 oktober
 
-<p class="trip-lead">Dag 10 van 16: de travertijnen en de antieke stad Hierapolis.</p>
+<p class="day-meta">Dag 10 van 16 · Pamukkale</p>
+
+<p class="trip-lead">De travertijnen en de antieke stad Hierapolis.</p>
 
 <dl class="trip-facts">
   <div><dt>Overnachten</dt><dd>Pamukkale · <a href="../../overzicht-verblijven/">Venus Suite Hotel</a></dd></div>

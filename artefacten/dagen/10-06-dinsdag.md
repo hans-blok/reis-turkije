@@ -1,7 +1,8 @@
-<div class="trip-hero" markdown="1">
-<span class="trip-eyebrow">Dag 9 van 16</span>
+<div class="trip-hero trip-hero--day" markdown="1">
 
 # Dinsdag 6 oktober
+
+<p class="day-meta">Dag 9 van 16 · Pamukkale</p>
 
 <p class="trip-lead">De zwaarste rijdag van de reis: Konya → Pamukkale, ca. 4,5 tot 5 uur rijden.</p>
 

@@ -1,7 +1,8 @@
-<div class="trip-hero" markdown="1">
-<span class="trip-eyebrow">Dag 15 van 16</span>
+<div class="trip-hero trip-hero--day" markdown="1">
 
 # Maandag 12 oktober
+
+<p class="day-meta">Dag 15 van 16 · Antalya</p>
 
 <p class="trip-lead">Doorreis naar Antalya via de kustweg (ca. 3 uur).</p>
 

@@ -1,7 +1,8 @@
-<div class="trip-hero" markdown="1">
-<span class="trip-eyebrow">Dag 8 van 16</span>
+<div class="trip-hero trip-hero--day" markdown="1">
 
 # Maandag 5 oktober
+
+<p class="day-meta">Dag 8 van 16 · Konya</p>
 
 <p class="trip-lead">Rustige ochtend in Göreme, vertrek vóór 10:00 richting Konya (ca. 3,5 uur rijden), inchecken bij Sırçalı Hotel (<a href="../../overzicht-verblijven/">verblijven</a>).</p>
 

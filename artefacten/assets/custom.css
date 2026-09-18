@@ -730,7 +730,94 @@ body,
   color: var(--mm-ink-3);
 }
 
-/* 8.4 Verblijfkaarten */
+/* 8.4 Dagindeling: ochtend, middag, avond
+   Hergebruikt de tijdlijn van de overzichtspagina; de linkerkolom toont het
+   dagdeel in plaats van een datum, de body is een kaart zoals op de homepage. */
+
+.md-typeset .day-plan {
+  margin-top: 1.2rem;
+}
+
+.day-part {
+  background: var(--mm-surface);
+  border: 1px solid var(--mm-border);
+  border-radius: var(--mm-radius);
+  padding: 0.9rem 1.05rem;
+  box-shadow: var(--mm-shadow);
+}
+
+.day-plan .trip-stop__body {
+  padding-left: 1.1rem;
+}
+
+.day-plan .trip-stop__body::before {
+  top: 1rem;
+}
+
+.day-item + .day-item {
+  margin-top: 0.85rem;
+  padding-top: 0.85rem;
+  border-top: 1px solid var(--mm-border);
+}
+
+.day-item__name {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--mm-ink);
+  letter-spacing: -0.01em;
+}
+
+.md-typeset .day-item__name a {
+  color: inherit;
+  border-bottom: none;
+}
+
+.md-typeset .day-item__name a:hover {
+  color: var(--mm-terracotta-dark);
+}
+
+.md-typeset .day-item__note {
+  margin: 0.2rem 0 0;
+  font-size: 0.74rem;
+  line-height: 1.6;
+  color: var(--mm-ink-2);
+}
+
+/* Geen flex hier: elk kind zou dan een eigen kolom worden en dat breekt een
+   zin met bijvoorbeeld vetgedrukte tekst. Het label loopt gewoon inline mee. */
+.md-typeset .day-item__tip {
+  margin: 0.45rem 0 0;
+  font-size: 0.7rem;
+  line-height: 1.6;
+  color: var(--mm-ink-3);
+}
+
+.day-item__tip .mm-badge {
+  margin-right: 0.35rem;
+  vertical-align: baseline;
+}
+
+.day-part__note {
+  font-size: 0.7rem;
+  color: var(--mm-ink-3);
+  margin-top: 0.85rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--mm-border);
+}
+
+/* Dagpagina's: het dagnummer is ondergeschikt aan de inhoud */
+
+.trip-hero--day {
+  margin-bottom: 1.8rem;
+}
+
+.md-typeset .day-meta {
+  margin: 0.15rem 0 0.8rem;
+  font-size: 0.7rem;
+  color: var(--mm-ink-3);
+}
+
+/* 8.5 Verblijfkaarten */
 
 .stay {
   background: var(--mm-surface);
@@ -846,7 +933,7 @@ body,
   color: #fff;
 }
 
-/* 8.5 Generieke sleutel-waardeblokken */
+/* 8.6 Generieke sleutel-waardeblokken */
 
 .md-typeset .mm-facts {
   display: grid;
@@ -955,7 +1042,7 @@ body,
   white-space: nowrap;
 }
 
-/* 8.6 Restaurantkaarten */
+/* 8.7 Restaurantkaarten */
 
 .md-typeset .mm-grid {
   display: grid;
@@ -1033,7 +1120,7 @@ body,
   margin-top: 0.75rem;
 }
 
-/* 8.7 Documentlink (PDF) */
+/* 8.8 Documentlink (PDF) */
 
 .md-typeset a.mm-doc {
   display: inline-flex;
@@ -1054,7 +1141,7 @@ body,
   color: var(--mm-terracotta-dark);
 }
 
-/* 8.8 Sectie-introductie */
+/* 8.9 Sectie-introductie */
 
 .md-typeset .mm-lead {
   font-size: 0.84rem;
